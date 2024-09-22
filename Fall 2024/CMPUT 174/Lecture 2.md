@@ -97,4 +97,8 @@ T/F: There are operators in python that are not represented by operator tokens. 
 <!--SR:!2024-10-07,18,250-->
 
 Special characters with varying functions are called ==delimiters.==
+<<<<<<< HEAD
 <!--SR:!2024-10-11,20,250-->
+=======
+<!--SR:!2024-09-25,4,230-->
+>>>>>>> d0b094a8b260a2b9f17a7f0450f07fc03ef21122
