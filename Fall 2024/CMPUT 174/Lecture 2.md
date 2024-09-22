@@ -64,7 +64,7 @@ The type of object determines  two things: ==how much space it takes, as well as
 <!--SR:!2024-09-28,11,230-->
 
 The acronym KILOD stands for::keyword, identifier, literal, operator, delimiter.
-<!--SR:!2024-09-21,9,250-->
+<!--SR:!2024-10-14,23,250-->
 
 A ==token== is smallest meaningful unit in a program.
 <!--SR:!2024-10-03,15,250-->
@@ -79,16 +79,16 @@ Words reserved for a specific purpose are called::keywords.
 <!--SR:!2024-09-22,10,250-->
 
 There are three kinds of literals: ::Integer literals, floating point literals, and string literals.
-<!--SR:!2024-09-20,8,250-->
+<!--SR:!2024-10-11,20,250-->
 
  Integer literals are composed of ==only digits (whole numbers.)==
-<!--SR:!2024-09-21,9,250-->
+<!--SR:!2024-10-14,23,250-->
 
 Floating point literals are composed of ==only digits and a single decimal point.==
 <!--SR:!2024-10-03,15,250-->
 
 String literals are composed of ==any characters surrounded by single or double quotes.==
-<!--SR:!2024-09-20,8,250-->
+<!--SR:!2024-10-11,20,250-->
 
 Operators are used to refer to ==operations on objects.==
 <!--SR:!2024-10-07,18,250-->
@@ -97,4 +97,4 @@ T/F: There are operators in python that are not represented by operator tokens. 
 <!--SR:!2024-10-07,18,250-->
 
 Special characters with varying functions are called ==delimiters.==
-<!--SR:!2024-09-20,8,250-->
+<!--SR:!2024-10-11,20,250-->

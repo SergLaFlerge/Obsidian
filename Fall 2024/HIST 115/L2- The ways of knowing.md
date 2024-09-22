@@ -129,16 +129,16 @@ Another problem with the internal model is that these great men are ==all white 
 <!--SR:!2024-10-07,18,250-->
 
 In the internal approach, we have a unidirectional model, where ==we have a one-way, always-positive relationship with technology.==
-<!--SR:!2024-09-21,9,250-->
+<!--SR:!2024-10-14,23,250-->
 
 T/F: In internal model, technology shapes/influences society, and society also shapes and influences technology: ::False.
 <!--SR:!2024-09-23,10,270-->
 
 Technological determinism posits that ==technology is the most decisive factor behind change and development.==
-<!--SR:!2024-09-20,2,150-->
+<!--SR:!2024-09-24,3,150-->
 
 The evolutionary model states that ==technology always evolves from  "primitive" to "better", more complex technologies.==
-<!--SR:!2024-09-20,8,250-->
+<!--SR:!2024-10-11,20,250-->
 
 The external approach takes into account the impact ==society== has in the development of technology.
 <!--SR:!2024-09-25,12,270-->
@@ -165,7 +165,7 @@ The interactive approach is a more ==modern== approach.
 <!--SR:!2024-09-22,9,270-->
 
 The interactive approach stipulates that ==technology and society influence each other.==
-<!--SR:!2024-09-21,3,230-->
+<!--SR:!2024-09-29,8,230-->
 
 In the interactive approach, we have a ==two-way== relationship with society and technology.
 <!--SR:!2024-09-23,10,270-->

@@ -80,103 +80,103 @@ Eratosthenes would be one of the first teaches/directors of the great library. H
 #flashcards115 
 
 As people started to use molds for weapon production, we start seeing factory level production with ==very high standardization.==
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 Sumerians were constantly trading with other people. One of these would be the ==Egyptians.==
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The general consensus is that whatever the Egyptians had, the Sumerians had invented about ==100 years== prior.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 One big advantage the Egyptians had over the Sumerians was ==using technology== for social control.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 At the time, Egypt was the ==wealthiest== society on Earth.
-<!--SR:!2024-09-20,2,230-->
+<!--SR:!2024-09-26,5,230-->
 
 The Egyptians remained largely ==unconquered== for their lifetime.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The Nile river was ==extremely predictable==, which let the Egyptian out-produce every other society at the time.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The Egyptian would stand for about ==3000 years== becoming the longest lived civilization.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 To predict the movement of the river, priests would observe ==the stars== and record their patterns.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 Thanks to the invention of the plow, the predictability of the Nile river, and social control, we see the creation of the ==Egyptian pyramids==.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The pyramids themselves were a form of ==social control==.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 To construct the pyramids, the Egyptians used ==paid workers==, as opposed to the widely believed slaves.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 Using paid workers during periods where the Nile would flood is another form of ==social control==.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 Sumerian crops would start giving less and less food as minerals in the earth ==diminished==, as opposed to the Nile where they replenished twice a year.
-<!--SR:!2024-09-20,2,230-->
+<!--SR:!2024-09-26,5,230-->
 
 The Mastaba were the ==first tombs==, although people were buried underneath rather than inside.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 Imhotep made a new design: ==step pyramids== that are then rounded into triangular shapes using smaller rocks.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The purpose of making pyramids was two-fold: To preserve the Pharaoh's body and his possessions into the afterlife, as well as ==keeping people paid== and busy (another form of social control.)
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The pyramids were ==incredibly expensive== and ultimately unsuccessful at their purposes.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The British would grind mummies and turn them into ==medicine==.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The Egyptians were not as ==technologically advanced== as is generally believed, as their society was mostly preoccupied with the afterlife.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The Greeks were particularly unique because they were the first to ==separate== the divine from the natural phenomena/science/technology.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 From Greece we see the first philosophers and ==scientists==.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The Greeks were the first to come up with the concept of the ==atom==.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The Greeks would be among the first to combine ==science and technology==.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 Alexander The Great would free Egypt and in return he was made a ==Pharaoh/living god==.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 Alexander The Great Would ==spread Greek culture== around the world.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 Having huge resources, Ptolemy decided to create the first ==research institute==, known as the Mouseion.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The big thing about the Mouseion is that scholars and scientists were ==paid==.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The heart of the Mouseion was the ==Great Library of Alexandria==, which contained over one million texts.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The Great Library was ==destroyed several times==, but the last time it was permanent.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 Christians would see the books at the Great Library and consider them ==Pagan==.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The Arabs would destroy some of the books in the Library, but ==others would be preserved==, from which the Islamic would greatly benefit.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 The Arab world would enter an ==Islamic renaissance==, while the rest of Europe would fall behind.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
 
 One of the greatest contributions of Islamic scholars is the ==translation of texts==, which would ultimately preserve the works of old.
-<!--SR:!2024-09-20,3,250-->
+<!--SR:!2024-10-01,10,250-->
