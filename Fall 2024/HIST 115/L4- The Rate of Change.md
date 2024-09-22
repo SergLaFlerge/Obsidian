@@ -155,11 +155,7 @@ Alexander The Great would free Egypt and in return he was made a ==Pharaoh/livin
 <!--SR:!2024-10-01,10,250-->
 
 Alexander The Great Would ==spread Greek culture== around the world.
-<<<<<<< HEAD
 <!--SR:!2024-10-01,10,250-->
-=======
-<!--SR:!2024-09-23,2,230-->
->>>>>>> d0b094a8b260a2b9f17a7f0450f07fc03ef21122
 
 Having huge resources, Ptolemy decided to create the first ==research institute==, known as the Mouseion.
 <!--SR:!2024-10-01,10,250-->
