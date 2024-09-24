@@ -89,10 +89,10 @@ Flake tools were often made of ==quartz, basalt, and obsidian.==
 <!--SR:!2024-10-04,15,250-->
 
 1.5 million years ago, we start seeing the development of more advanced tools, which we now call ==core tools, are the Acheulean tools.==
-<!--SR:!2024-09-23,9,270-->
+<!--SR:!2024-10-18,24,270-->
 
 The main difference between core tools and flake tools is that, in core tools, ==the flakes are discarded==, as opposed to being the tool.
-<!--SR:!2024-09-22,9,250-->
+<!--SR:!2024-10-17,23,250-->
 
 The creation of core tools introduced some form of ==standardization== to tool making.
 <!--SR:!2024-10-11,20,250-->
@@ -110,7 +110,7 @@ With the end of the ice age, the world got very hot and dry, forcing humans to m
 <!--SR:!2024-09-27,13,270-->
 
 In Mesopotamia, we see the domestication of animals, as well as another major technology, known as ==agriculture==.
-<!--SR:!2024-09-24,10,270-->
+<!--SR:!2024-10-21,27,270-->
 
 As we transition to a more stationary lifestyle, we see, shift from "eat when you catch it" to "==save the best for the next year==."
 <!--SR:!2024-09-26,12,270-->
@@ -128,22 +128,22 @@ As society developed, we began using technology to exercise ==dominance over nat
 <!--SR:!2024-10-09,18,250-->
 
 ==power, wealth, and prestige== are other consequences of civilization.
-<!--SR:!2024-09-22,5,230-->
+<!--SR:!2024-10-05,11,230-->
 
 Since the rivers in Mesopotamia were not predictable, the Sumerians had to invent ==irrigation==.
 <!--SR:!2024-10-11,20,250-->
 
 In order for their irrigation system to be efficient, the  Sumerians needed a standard used measurement system, as well as a standardized way to communicate said measurements, for which they developed ==mathematics==.
-<!--SR:!2024-09-23,9,252-->
+<!--SR:!2024-10-17,23,252-->
 
 The Sumerians needed people to understand mathematics and use it to make functional projects, for with the concept of the ==engineer== was created.
 <!--SR:!2024-10-09,18,252-->
 
 The concepts of the ==time, clock, and calendar== were invented because the Sumerians had to keep track of when to start and finish projects.
-<!--SR:!2024-09-22,8,252-->
+<!--SR:!2024-09-28,4,232-->
 
 The Sumerians would now have people that would work exclusively on construction projects. Because of this we start seeing the first ==pyramids/ziggurats==.
-<!--SR:!2024-09-23,9,252-->
+<!--SR:!2024-09-30,6,232-->
 
 Sumerians cities got so large that people started needing specific people to communicate with their leaders, and so ==lawyers== were invented.
 <!--SR:!2024-10-09,18,252-->
@@ -152,13 +152,13 @@ Despite having a large number of tablets from the Sumerians, we are largely unaw
 <!--SR:!2024-10-06,15,252-->
 
 Since everyone wanted to trade with the Sumerians, the ==wheel== is invented, although it wouldn't catch on right away.
-<!--SR:!2024-09-22,8,252-->
+<!--SR:!2024-10-13,19,252-->
 
 The wheel failed to make the immediate impact we think it would have since ==road systems were not yet invented==, making it dangerous to travel by land.
 <!--SR:!2024-10-06,15,252-->
 
 The Sumerians invent the first ==proper armies== as a result of their increased trade and wealth.
-<!--SR:!2024-09-22,5,232-->
+<!--SR:!2024-10-05,11,232-->
 
 From the creation of the first armies, we start seeing ==smelting==, leading to the development of the first metal weapons.
 <!--SR:!2024-09-27,13,272-->

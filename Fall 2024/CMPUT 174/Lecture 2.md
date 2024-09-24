@@ -58,7 +58,7 @@ This is the process of interpreting the tokens. Python reads statements left-to-
 #flashcards174
 
 The ID of an object is ==where in the memory it is located.==
-<!--SR:!2024-09-22,10,250-->
+<!--SR:!2024-10-19,25,250-->
 
 The type of object determines  two things: ==how much space it takes, as well as the types of operators that can be used on it.==
 <!--SR:!2024-09-28,11,230-->
@@ -70,13 +70,13 @@ A ==token== is smallest meaningful unit in a program.
 <!--SR:!2024-10-03,15,250-->
 
 Words reserved for a specific purpose are called::keywords.
-<!--SR:!2024-09-23,10,270-->
+<!--SR:!2024-10-21,27,270-->
 
 ==Identifiers== are used to refer to objects in memory (built-in or user made.)
 <!--SR:!2024-09-25,8,210-->
 
 ==Literals== are used to represent constant, fixed values.
-<!--SR:!2024-09-22,10,250-->
+<!--SR:!2024-10-19,25,250-->
 
 There are three kinds of literals: ::Integer literals, floating point literals, and string literals.
 <!--SR:!2024-10-11,20,250-->
