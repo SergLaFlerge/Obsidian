@@ -99,7 +99,7 @@ Well, it depends. They all have something tangible, so in this class we will use
 #flashcards115 
 
 To historians, technology is a ==system.==
-<!--SR:!2024-09-26,13,270-->
+<!--SR:!2024-10-31,35,270-->
 
 There are many technologies that are not visible to us, we call these ==silent technologies.==
 <!--SR:!2024-10-03,15,250-->
@@ -117,10 +117,10 @@ The internal approach is very nuts and bolts, often ==ignoring== the societal im
 <!--SR:!2024-09-29,12,230-->
 
 Without external factors, only natural-born geniuses come up with new ideas. This is known as the ==great men theory.==
-<!--SR:!2024-09-25,12,270-->
+<!--SR:!2024-10-02,6,250-->
 
 T/F: The internal approach is the most popular in mainstream media: ::True.
-<!--SR:!2024-09-26,13,270-->
+<!--SR:!2024-10-31,35,270-->
 
 One of the biggest problems with the internal approach is that the Great Men ==didn't really== invent the technologies they're credited with.
 <!--SR:!2024-10-08,14,250-->
@@ -141,16 +141,16 @@ The evolutionary model states that ==technology always evolves from  "primitive"
 <!--SR:!2024-10-11,20,250-->
 
 The external approach takes into account the impact ==society== has in the development of technology.
-<!--SR:!2024-09-25,12,270-->
+<!--SR:!2024-10-28,32,270-->
 
 T/F: The external approach stands in direct opposition to the internal approach. ::True
 <!--SR:!2024-10-21,27,270-->
 
 In the external model there are no in-born geniuses or independent ideas, as everything is influenced by ==society.== There are examples where this isn't true, however.
-<!--SR:!2024-09-26,13,270-->
+<!--SR:!2024-10-31,35,270-->
 
 Failure and success of technology in the external model is determined by ==external social factors.==
-<!--SR:!2024-09-25,8,210-->
+<!--SR:!2024-10-12,16,210-->
 
 Social factors affecting the success of technology in the external approach include: :: Religion, social beliefs and norms, and others.
 <!--SR:!2024-09-28,11,230-->

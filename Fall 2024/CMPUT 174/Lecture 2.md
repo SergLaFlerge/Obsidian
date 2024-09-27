@@ -73,7 +73,7 @@ Words reserved for a specific purpose are called::keywords.
 <!--SR:!2024-10-21,27,270-->
 
 ==Identifiers== are used to refer to objects in memory (built-in or user made.)
-<!--SR:!2024-09-25,8,210-->
+<!--SR:!2024-10-12,16,210-->
 
 ==Literals== are used to represent constant, fixed values.
 <!--SR:!2024-10-19,25,250-->
@@ -98,7 +98,9 @@ T/F: There are operators in python that are not represented by operator tokens. 
 
 Special characters with varying functions are called ==delimiters.==
 <<<<<<< HEAD
-<!--SR:!2024-10-11,20,250-->
+<!--SR:!2024-09-28,2,248-->
+
 =======
-<!--SR:!2024-09-25,4,230-->
+
 >>>>>>> d0b094a8b260a2b9f17a7f0450f07fc03ef21122
+<!--SR:!2024-10-11,20,250!2024-10-05,9,230-->

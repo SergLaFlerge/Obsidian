@@ -113,7 +113,7 @@ In Mesopotamia, we see the domestication of animals, as well as another major te
 <!--SR:!2024-10-21,27,270-->
 
 As we transition to a more stationary lifestyle, we see, shift from "eat when you catch it" to "==save the best for the next year==."
-<!--SR:!2024-09-26,12,270-->
+<!--SR:!2024-10-28,32,270-->
 
 The surplus of food created :: division of labor, specialization, the political elite, and the first towns.
 <!--SR:!2024-09-27,9,210-->
@@ -164,4 +164,4 @@ From the creation of the first armies, we start seeing ==smelting==, leading to 
 <!--SR:!2024-09-27,13,272-->
 
 Tin and copper made bronze, giving us a new relationship technology, where we have made something that ==did not previously exist== in nature.
-<!--SR:!2024-09-25,11,272-->
+<!--SR:!2024-10-26,30,272-->
