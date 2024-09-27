@@ -101,13 +101,13 @@ With the bigger core tools, we were able to obtain more meat from ==hunting bigg
 <!--SR:!2024-10-04,15,250-->
 
 With our bigger brains, we started to develop more ==new technologies==.
-<!--SR:!2024-09-27,13,270-->
+<!--SR:!2024-11-01,35,270-->
 
 With the end of the ice age, the world got very hot and dry, forcing humans to move due to ==lack of food and water==.
 <!--SR:!2024-10-09,18,250-->
 
 11 000 years ago, humans find paradise:  ==Mesopotamia==. This is repeated across the world.
-<!--SR:!2024-09-27,13,270-->
+<!--SR:!2024-11-01,35,270-->
 
 In Mesopotamia, we see the domestication of animals, as well as another major technology, known as ==agriculture==.
 <!--SR:!2024-10-21,27,270-->
@@ -116,7 +116,7 @@ As we transition to a more stationary lifestyle, we see, shift from "eat when yo
 <!--SR:!2024-10-28,32,270-->
 
 The surplus of food created :: division of labor, specialization, the political elite, and the first towns.
-<!--SR:!2024-09-27,9,210-->
+<!--SR:!2024-10-02,5,190-->
 
 The biggest change due to the surplus of food is that we start seeing ==thousand of people== living in one area for long periods of time.
 <!--SR:!2024-10-04,15,250-->
@@ -161,7 +161,7 @@ The Sumerians invent the first ==proper armies== as a result of their increased 
 <!--SR:!2024-10-05,11,232-->
 
 From the creation of the first armies, we start seeing ==smelting==, leading to the development of the first metal weapons.
-<!--SR:!2024-09-27,13,272-->
+<!--SR:!2024-10-02,5,252-->
 
 Tin and copper made bronze, giving us a new relationship technology, where we have made something that ==did not previously exist== in nature.
 <!--SR:!2024-10-26,30,272-->

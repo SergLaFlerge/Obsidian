@@ -156,7 +156,7 @@ Social factors affecting the success of technology in the external approach incl
 <!--SR:!2024-09-28,11,230-->
 
 The downside of the external approach is the idea of social determinism —:: All technological change is socially determined.
-<!--SR:!2024-09-27,9,190-->
+<!--SR:!2024-10-15,18,190-->
 
 In the external approach, society is ==always== in control of technology.
 <!--SR:!2024-10-24,30,270-->
