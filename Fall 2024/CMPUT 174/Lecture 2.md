@@ -61,7 +61,7 @@ The ID of an object is ==where in the memory it is located.==
 <!--SR:!2024-10-19,25,250-->
 
 The type of object determines  two things: ==how much space it takes, as well as the types of operators that can be used on it.==
-<!--SR:!2024-09-28,11,230-->
+<!--SR:!2024-10-25,24,230-->
 
 The acronym KILOD stands for::keyword, identifier, literal, operator, delimiter.
 <!--SR:!2024-10-14,23,250-->
@@ -98,7 +98,7 @@ T/F: There are operators in python that are not represented by operator tokens. 
 
 Special characters with varying functions are called ==delimiters.==
 <<<<<<< HEAD
-<!--SR:!2024-09-28,2,248-->
+<!--SR:!2024-10-06,5,248-->
 
 =======
 

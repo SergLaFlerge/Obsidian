@@ -41,3 +41,35 @@ The last major invention credited to Heron were wind powered machines. From wind
 He made all these things, *so what?* Well, there was next to no impact. There was no industrial revolution, it would all be mostly forgotten. The main reason behind this would be the government.
 
 The Roman government were not interested in these inventions. This is a perfect example of how technology depends on external factors. In this case, the lack of interest was due to the sheer number of people they had to keep occupied. Other inventions of his were seen more as toys. Many of his inventions were meant to showcase scientific principles rather than sell products, so they never caught on beyond their presentations.
+
+#flashcards115 
+
+Eratosthenes was described as a mediocre mathematician, but one of the first things he did was measure the ==circumference of the earth== to a great degree of accuracy.
+<!--SR:!2024-10-04,3,250-->
+
+Eratosthenes also set out to find the distance between the earth and ==the moon (and the sun)==. He was off but not bad considering.
+<!--SR:!2024-10-04,3,250-->
+
+Eratosthenes also invented chronology as well as the first ==star== catalog.
+<!--SR:!2024-10-04,3,250-->
+
+One of the preserved works of Alexandria were the works of ==Heron of Alexandria==, who was a mechanical genius.
+<!--SR:!2024-10-04,3,250-->
+
+A unique trait of the works of Heron is that it survived ==almost intact==, giving us a very good insight into the technology of ancient Greece.
+<!--SR:!2024-10-04,3,250-->
+
+Heron of Alexandria was a teacher and inventor, particularly on ==pneumatics==.
+<!--SR:!2024-10-04,3,250-->
+
+The technological achievements of Alexandria were unprecedented. They would do things that we would ==accredit to other== civilizations much later.
+<!--SR:!2024-10-04,3,250-->
+
+The most famous invention by Heron was the ==operational steam engine== and the first jet powered steam engine.
+<!--SR:!2024-10-04,3,250-->
+
+Another invention by Heron that would later be used for combustion engines was the ==vacuum pump==.
+<!--SR:!2024-10-04,3,250-->
+
+All these inventions by Heron had next to no impact. This was because the Romans needed to keep people occupied and would not afford to automate their processes. This is a perfect example of how technology depends on ==social factors==.
+<!--SR:!2024-10-04,3,250-->

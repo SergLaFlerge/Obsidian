@@ -77,7 +77,7 @@ We now have tin (230 C) and copper (1084 C) making bronze, giving us a knew rela
 #flashcards115 
 
 2.5 million years ago, early human societies were starting to be seen in an area known as ==The Great Rift Valley.==
-<!--SR:!2024-09-30,12,230-->
+<!--SR:!2024-10-29,28,230-->
 
 The earliest examples of technology from early humans were known as ==flake tools, or the Oldowan mode.==
 <!--SR:!2024-10-09,18,250-->
@@ -122,7 +122,7 @@ The biggest change due to the surplus of food is that we start seeing ==thousand
 <!--SR:!2024-10-04,15,250-->
 
 4000 years ago, we create the most important tool in early society, ==the plow==.
-<!--SR:!2024-09-28,14,290-->
+<!--SR:!2024-11-11,41,290-->
 
 As society developed, we began using technology to exercise ==dominance over nature==, and it was no longer about survival.
 <!--SR:!2024-10-09,18,250-->
@@ -140,10 +140,10 @@ The Sumerians needed people to understand mathematics and use it to make functio
 <!--SR:!2024-10-09,18,252-->
 
 The concepts of the ==time, clock, and calendar== were invented because the Sumerians had to keep track of when to start and finish projects.
-<!--SR:!2024-09-28,4,232-->
+<!--SR:!2024-10-08,7,232-->
 
 The Sumerians would now have people that would work exclusively on construction projects. Because of this we start seeing the first ==pyramids/ziggurats==.
-<!--SR:!2024-09-30,6,232-->
+<!--SR:!2024-10-04,3,212-->
 
 Sumerians cities got so large that people started needing specific people to communicate with their leaders, and so ==lawyers== were invented.
 <!--SR:!2024-10-09,18,252-->

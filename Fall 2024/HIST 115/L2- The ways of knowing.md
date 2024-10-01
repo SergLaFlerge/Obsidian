@@ -114,7 +114,7 @@ The internal approach is very nuts and bolts, often ==ignoring== the societal im
 <!--SR:!2024-10-24,30,270-->
 
  In the internal model, discoveries are made without ==being influenced by social factors.==
-<!--SR:!2024-09-29,12,230-->
+<!--SR:!2024-10-29,28,230-->
 
 Without external factors, only natural-born geniuses come up with new ideas. This is known as the ==great men theory.==
 <!--SR:!2024-10-02,6,250-->
@@ -135,7 +135,7 @@ T/F: In internal model, technology shapes/influences society, and society also s
 <!--SR:!2024-10-21,27,270-->
 
 Technological determinism posits that ==technology is the most decisive factor behind change and development.==
-<!--SR:!2024-09-30,6,150-->
+<!--SR:!2024-10-08,7,150-->
 
 The evolutionary model states that ==technology always evolves from  "primitive" to "better", more complex technologies.==
 <!--SR:!2024-10-11,20,250-->
@@ -153,7 +153,7 @@ Failure and success of technology in the external model is determined by ==exter
 <!--SR:!2024-10-12,16,210-->
 
 Social factors affecting the success of technology in the external approach include: :: Religion, social beliefs and norms, and others.
-<!--SR:!2024-09-28,11,230-->
+<!--SR:!2024-10-25,24,230-->
 
 The downside of the external approach is the idea of social determinism —:: All technological change is socially determined.
 <!--SR:!2024-10-15,18,190-->
@@ -162,10 +162,10 @@ In the external approach, society is ==always== in control of technology.
 <!--SR:!2024-10-24,30,270-->
 
 The interactive approach is a more ==modern== approach.
-<!--SR:!2024-09-30,6,250-->
+<!--SR:!2024-10-16,15,250-->
 
 The interactive approach stipulates that ==technology and society influence each other.==
-<!--SR:!2024-09-29,8,230-->
+<!--SR:!2024-10-20,19,230-->
 
 In the interactive approach, we have a ==two-way== relationship with society and technology.
 <!--SR:!2024-10-21,27,270-->
