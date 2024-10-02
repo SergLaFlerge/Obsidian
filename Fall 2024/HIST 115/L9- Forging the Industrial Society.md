@@ -17,6 +17,38 @@ In 1679, Robert Hooke approaches Newton several times, finally managing to ask h
 
 Newton continued his alchemical work in secrecy. In 1690, Robert Hooke would build reflective telescopes in order to solve the problem of not having good enough telescope technology. Newton gets in a fight with Hooke and proclaims that he will never publish again until Hooke was dead.
 
-Hooke dies 13 years later, and so in 1704 he publishes his second and last work. This work is about the behavior of light. In this work, he claims that light is made of matter (hee-hee). The important thing is that this book also describes how to conduct science in English. We consider 1704 the birth of "modern science." This book gave us a standard oozed system for obtaining facts/knowledge
+Hooke dies 13 years later, and so in 1704 he publishes his second and last work. This work is about the behavior of light. In this work, he claims that light is made of matter (hee-hee). The important thing is that this book also describes how to conduct science in English. We consider 1704 the birth of "modern science." This book gave us a standardized system for obtaining facts/knowledge.
+
+In the 1700's, science became something of a social practice for the upper classes. The first of these scientific societies (in Europe) would be founded in 1663 in London, known as the royal society. The royal society was privately and completely independent from the king, unlike the academy of sciences from France in 1666.
+
+We start seeing a new class, the "middle class" thanks to capitalism. People develop a common interest: Making money. This middle class starts becoming richer, and this new wealth would be put towards the utility of science/technology. They became wealthier than the aristocrats but were still not considered as such.
+
+These people would start experimenting with electricity, vacuum, and steam. While electricity would not take off right away, the other 2 led to the industrial revolution. From this research, the steam engine was born.
+
+## Steam Engine
+
+As we know, the steam engine was really invented by Heron of Alexandria, but it served as a perfect example supporting the external approach, as the steam engine would fail to take off due to social factors.
+
+It is a common misconception that the steam engine was invented to power factories, but in fact it was made to solve a completely different problem: Ships. Britain had a large empire that it controlled through its large navy. At this point Britain was running out of wood to make their ships as it keeps being used for heating, so it was banned and they would switch to coal instead. But this too would start to fail as they ran out of coal. They would dig coal to the point that they hit water, and so the steam engine was (re)invented for use as a water pump.
+
+We credit this reinvention to Thomas Savery, but really it was invented by Edward Marquise of Worcester in 1698. The was known as the "miner's friend" and it had a maximum operating capacity of 12m, which was actually useless for its intended purpose. The vacuum pump would still be the first patented steam engine regardless of its failure.
+
+Denis Papin would be the first person to present the vacuum pump to the royal society. In 1681-1708 he would make the steam boat and in the 1690's he would make the first piston engine.
+
+Why did Papin fail? In the external approach, we would say that it was due to his connections, while the internal approach would say that to simply lacked the technology at the time. Papin ran away from France for religious reasons, and would need resources to continue his work. Robert Boyle, the head of the royal society with finance him up until 1691, but mans died so he lost his main supporter. Robert Hooke is his next bet, and he would continue with him until 1703 until Hooke died. At this point Newton would become the head of the royal society, which would be terrible for Papin as Newton and Hooke were enemies.
+
+In 1708, he writes a proposal for which he needs 15 pounds from the royal society. The royal society knew not to mess with Newton, so they would need to deny him. Thomas Savery enters the picture and writes a letter stating that Papin's engine would never work. This is the point that the internal approach sticks to, essentially believing Savery's word without trying to understand Papin's design. However it is quite clear that Newton's personal quarries were the real reason Papin's design never made it past the model phase, which is a very external factor.
+
+Papin would become homeless in 1712 and died a year later. He was then (post death) granted a monetary award and recognition for inventing the pressure cooker. LOL.
+
+Thomas Newcomen was finally the first steam (vacuum) engine that would actually be useful for its mining application. This pump was also commercially available.
+
+In 1764, a Newcomen pump breaks at Glasgow university. They call the person responsible to fix it, and it just so happens to be mfing James Watt. At the time, he was a Scottish instrument maker who was rather unsuccessful. He noticed that, by adding an external condenser, he would reduce the loss of heat. He'd never be able to patent it as is, but he would close the top off to further change the design. Matthew Boulton would help pay for Watt's new engine and in 1774 they would open the Soho engine factory. There was a big problem, however: they needed a high degree of standardization that also needed to withstand high temperatures and pressures.
+
+Funnily enough, the answer would lie within Chinese cannons. To avoid the cannon exploding from its use, the solution was to simply bore the actual barrel instead of casting it. John Wilkinson would invent the cannon boring machine in 1774. In order to transform circular motion into linear, up-and-down motion James Pickard "invents" the crank/flywheel in 1781.
+
+## Factory System
+
+Context:
 
 hamimrah@ualberta.ca
