@@ -86,7 +86,7 @@ To make flake tools, early humans would take hard stones and ==smash them into s
 <!--SR:!2024-10-11,20,250-->
 
 Flake tools were often made of ==quartz, basalt, and obsidian.==
-<!--SR:!2024-10-04,15,250-->
+<!--SR:!2024-11-10,37,250-->
 
 1.5 million years ago, we start seeing the development of more advanced tools, which we now call ==core tools, are the Acheulean tools.==
 <!--SR:!2024-10-18,24,270-->
@@ -98,7 +98,7 @@ The creation of core tools introduced some form of ==standardization== to tool m
 <!--SR:!2024-10-11,20,250-->
 
 With the bigger core tools, we were able to obtain more meat from ==hunting bigger animals==, giving us larger brains.
-<!--SR:!2024-10-04,15,250-->
+<!--SR:!2024-11-10,37,250-->
 
 With our bigger brains, we started to develop more ==new technologies==.
 <!--SR:!2024-11-01,35,270-->
@@ -116,10 +116,10 @@ As we transition to a more stationary lifestyle, we see, shift from "eat when yo
 <!--SR:!2024-10-28,32,270-->
 
 The surplus of food created :: division of labor, specialization, the political elite, and the first towns.
-<!--SR:!2024-10-02,5,190-->
+<!--SR:!2024-10-13,10,190-->
 
 The biggest change due to the surplus of food is that we start seeing ==thousand of people== living in one area for long periods of time.
-<!--SR:!2024-10-04,15,250-->
+<!--SR:!2024-11-10,37,250-->
 
 4000 years ago, we create the most important tool in early society, ==the plow==.
 <!--SR:!2024-11-11,41,290-->
@@ -143,7 +143,7 @@ The concepts of the ==time, clock, and calendar== were invented because the Sume
 <!--SR:!2024-10-08,7,232-->
 
 The Sumerians would now have people that would work exclusively on construction projects. Because of this we start seeing the first ==pyramids/ziggurats==.
-<!--SR:!2024-10-04,3,212-->
+<!--SR:!2024-10-10,6,212-->
 
 Sumerians cities got so large that people started needing specific people to communicate with their leaders, and so ==lawyers== were invented.
 <!--SR:!2024-10-09,18,252-->
@@ -161,7 +161,7 @@ The Sumerians invent the first ==proper armies== as a result of their increased 
 <!--SR:!2024-10-05,11,232-->
 
 From the creation of the first armies, we start seeing ==smelting==, leading to the development of the first metal weapons.
-<!--SR:!2024-10-02,5,252-->
+<!--SR:!2024-10-16,13,252-->
 
 Tin and copper made bronze, giving us a new relationship technology, where we have made something that ==did not previously exist== in nature.
 <!--SR:!2024-10-26,30,272-->

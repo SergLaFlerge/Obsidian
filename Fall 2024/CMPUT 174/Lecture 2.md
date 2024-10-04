@@ -67,7 +67,7 @@ The acronym KILOD stands for::keyword, identifier, literal, operator, delimiter.
 <!--SR:!2024-10-14,23,250-->
 
 A ==token== is smallest meaningful unit in a program.
-<!--SR:!2024-10-03,15,250-->
+<!--SR:!2024-11-10,38,250-->
 
 Words reserved for a specific purpose are called::keywords.
 <!--SR:!2024-10-21,27,270-->
@@ -85,7 +85,7 @@ There are three kinds of literals: ::Integer literals, floating point literals, 
 <!--SR:!2024-10-14,23,250-->
 
 Floating point literals are composed of ==only digits and a single decimal point.==
-<!--SR:!2024-10-03,15,250-->
+<!--SR:!2024-11-10,38,250-->
 
 String literals are composed of ==any characters surrounded by single or double quotes.==
 <!--SR:!2024-10-11,20,250-->

@@ -102,7 +102,7 @@ To historians, technology is a ==system.==
 <!--SR:!2024-10-31,35,270-->
 
 There are many technologies that are not visible to us, we call these ==silent technologies.==
-<!--SR:!2024-10-03,15,250-->
+<!--SR:!2024-10-13,10,230-->
 
 There are three major technologies that affect us all the time: :: Education, government, and economy.
 <!--SR:!2024-10-07,18,250-->
@@ -117,7 +117,7 @@ The internal approach is very nuts and bolts, often ==ignoring== the societal im
 <!--SR:!2024-10-29,28,230-->
 
 Without external factors, only natural-born geniuses come up with new ideas. This is known as the ==great men theory.==
-<!--SR:!2024-10-02,6,250-->
+<!--SR:!2024-10-16,13,250-->
 
 T/F: The internal approach is the most popular in mainstream media: ::True.
 <!--SR:!2024-10-31,35,270-->

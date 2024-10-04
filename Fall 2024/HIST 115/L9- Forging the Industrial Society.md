@@ -49,6 +49,18 @@ Funnily enough, the answer would lie within Chinese cannons. To avoid the cannon
 
 ## Factory System
 
-Context:
+Context: Before the factory system, we had something called the "putting out" system, are the contracted work. This wind of work would be done at a worker's home. People were paid by the amount of products they made. This was a family affair, and people would work as needed to be able to live. The system was very family oriented, and it allowed the workers more freedom. This is how things were in at least Britain.
 
-hamimrah@ualberta.ca
+By the 1720's, we start seeing textile machines that become to large to be housed at home. And so we see the first factories pop up. They were places were these machines would be operated. The factory was a new technology of labor organization, where workers were now removed from families/homes with minimal wages. There was no way for the putting out system, as these machines would massively out produce any work from home model. Workers would now have to work maximum hours for extremely little pay, to the point where the rest of the family would be forced to work alongside you just to keep up. There was no way to climb above the poverty line.
+
+An important paradigm of the factory is *water*. All early factories were powered by water wheels, not steam engines. Water wheels were much simpler than engines and required little maintenance. They were however, rather weak and inefficient.
+
+The first person to have a steam powered factory was Richard Arkwright, who in 1781 made the Cromford Mill, powered by the steam engine.
+
+In 1802, Marc Brunel made the Portsmouth Block Mills, which was particularly special because it was the first factory with automated production/assembly line. Brunel became absolutely famous. We went from needing specialized workers to make these products to being able to use unskilled laborers, which in some sense killed skilled labor.
+
+At this point, the biggest cost was not the production of the items, but rather the cost of delivery. The steam engine solved this problem, by allowing factories to be set up inside cities as opposed to being bound by a body of moving water. Workers would move from their towns into the cities, and so was born the modern industrial society.
+
+This population was very poor. The only people benefiting from this system where the factory owners. It was a time were we had a huge growth in both wealth *and* poverty.
+
+The British developed a specific philosophy: Technological positivism - technology has only a one-way, always positive relationship with society (sounds a lot like technological determinism.) Eventually, wages improve, people's quality of life improves, workers start being provided housing and schools, etc. civil engineers would be seen as heroes. Technology was being used to solve problems once again. From all this we also start seeing a transportation revolution, which makes travel more accessible to everybody.
