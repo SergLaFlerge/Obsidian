@@ -91,14 +91,14 @@ String literals are composed of ==any characters surrounded by single or double 
 <!--SR:!2024-10-11,20,250-->
 
 Operators are used to refer to ==operations on objects.==
-<!--SR:!2024-10-07,18,250-->
+<!--SR:!2024-11-21,45,250-->
 
 T/F: There are operators in python that are not represented by operator tokens. :: True.
-<!--SR:!2024-10-07,18,250-->
+<!--SR:!2024-11-21,45,250-->
 
 Special characters with varying functions are called ==delimiters.==
 <<<<<<< HEAD
-<!--SR:!2024-10-06,5,248-->
+<!--SR:!2024-10-20,13,248-->
 
 =======
 

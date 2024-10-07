@@ -105,7 +105,7 @@ There are many technologies that are not visible to us, we call these ==silent t
 <!--SR:!2024-10-13,10,230-->
 
 There are three major technologies that affect us all the time: :: Education, government, and economy.
-<!--SR:!2024-10-07,18,250-->
+<!--SR:!2024-11-21,45,250-->
 
 The three major approaches to the study of technology we will focus on are: :: Internal, external, and interactive.
 <!--SR:!2024-10-18,24,270-->
@@ -126,7 +126,7 @@ One of the biggest problems with the internal approach is that the Great Men ==d
 <!--SR:!2024-10-08,14,250-->
 
 Another problem with the internal model is that these great men are ==all white and male.==
-<!--SR:!2024-10-07,18,250-->
+<!--SR:!2024-11-21,45,250-->
 
 In the internal approach, we have a unidirectional model, where ==we have a one-way, always-positive relationship with technology.==
 <!--SR:!2024-10-14,23,250-->

@@ -128,7 +128,7 @@ As society developed, we began using technology to exercise ==dominance over nat
 <!--SR:!2024-10-09,18,250-->
 
 ==power, wealth, and prestige== are other consequences of civilization.
-<!--SR:!2024-10-05,11,230-->
+<!--SR:!2024-11-02,26,230-->
 
 Since the rivers in Mesopotamia were not predictable, the Sumerians had to invent ==irrigation==.
 <!--SR:!2024-10-11,20,250-->
@@ -149,16 +149,16 @@ Sumerians cities got so large that people started needing specific people to com
 <!--SR:!2024-10-09,18,252-->
 
 Despite having a large number of tablets from the Sumerians, we are largely unaware of their culture, as their tablets amount to early ==Walmart receipts==.
-<!--SR:!2024-10-06,15,252-->
+<!--SR:!2024-11-14,38,252-->
 
 Since everyone wanted to trade with the Sumerians, the ==wheel== is invented, although it wouldn't catch on right away.
 <!--SR:!2024-10-13,19,252-->
 
 The wheel failed to make the immediate impact we think it would have since ==road systems were not yet invented==, making it dangerous to travel by land.
-<!--SR:!2024-10-06,15,252-->
+<!--SR:!2024-11-14,38,252-->
 
 The Sumerians invent the first ==proper armies== as a result of their increased trade and wealth.
-<!--SR:!2024-10-05,11,232-->
+<!--SR:!2024-10-13,6,212-->
 
 From the creation of the first armies, we start seeing ==smelting==, leading to the development of the first metal weapons.
 <!--SR:!2024-10-16,13,252-->

@@ -146,7 +146,7 @@ From Greece we see the first philosophers and ==scientists==.
 <!--SR:!2024-10-25,24,250-->
 
 The Greeks were the first to come up with the concept of the ==atom==.
-<!--SR:!2024-10-06,5,230-->
+<!--SR:!2024-10-20,13,230-->
 
 The Greeks would be among the first to combine ==science and technology==.
 <!--SR:!2024-10-25,24,250-->
