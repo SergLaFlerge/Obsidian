@@ -92,7 +92,7 @@ One big advantage the Egyptians had over the Sumerians was ==using technology== 
 <!--SR:!2024-10-25,24,250-->
 
 At the time, Egypt was the ==wealthiest== society on Earth.
-<!--SR:!2024-10-10,14,230-->
+<!--SR:!2024-11-10,31,230-->
 
 The Egyptians remained largely ==unconquered== for their lifetime.
 <!--SR:!2024-10-25,24,250-->
@@ -119,7 +119,7 @@ Using paid workers during periods where the Nile would flood is another form of 
 <!--SR:!2024-10-25,24,250-->
 
 Sumerian crops would start giving less and less food as minerals in the earth ==diminished==, as opposed to the Nile where they replenished twice a year.
-<!--SR:!2024-10-10,14,230-->
+<!--SR:!2024-11-10,31,230-->
 
 The Mastaba were the ==first tombs==, although people were buried underneath rather than inside.
 <!--SR:!2024-10-25,24,250-->
