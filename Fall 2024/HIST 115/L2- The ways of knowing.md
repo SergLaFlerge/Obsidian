@@ -123,7 +123,11 @@ T/F: The internal approach is the most popular in mainstream media: ::True.
 <!--SR:!2024-10-31,35,270-->
 
 One of the biggest problems with the internal approach is that the Great Men ==didn't really== invent the technologies they're credited with.
+<<<<<<< HEAD
 <!--SR:!2024-11-13,35,250-->
+=======
+<!--SR:!2024-11-14,35,250-->
+>>>>>>> 7805544e686dd55bb8d339b9aa1de31d739cc874
 
 Another problem with the internal model is that these great men are ==all white and male.==
 <!--SR:!2024-11-21,45,250-->
@@ -135,7 +139,11 @@ T/F: In internal model, technology shapes/influences society, and society also s
 <!--SR:!2024-10-21,27,270-->
 
 Technological determinism posits that ==technology is the most decisive factor behind change and development.==
+<<<<<<< HEAD
 <!--SR:!2024-10-13,4,130-->
+=======
+<!--SR:!2024-10-22,12,150-->
+>>>>>>> 7805544e686dd55bb8d339b9aa1de31d739cc874
 
 The evolutionary model states that ==technology always evolves from  "primitive" to "better", more complex technologies.==
 <!--SR:!2024-10-11,20,250-->
