@@ -1,4 +1,5 @@
-# The Ways of Knowing
+
+<!--SR:!2024-10-19,3,251--># The Ways of Knowing
 
 Two major points:
 1. What is technology?
@@ -102,7 +103,7 @@ To historians, technology is a ==system.==
 <!--SR:!2024-10-31,35,270-->
 
 There are many technologies that are not visible to us, we call these ==silent technologies.==
-<!--SR:!2024-10-13,10,230-->
+<!--SR:!2024-11-08,23,230-->
 
 There are three major technologies that affect us all the time: :: Education, government, and economy.
 <!--SR:!2024-11-21,45,250-->
@@ -117,7 +118,7 @@ The internal approach is very nuts and bolts, often ==ignoring== the societal im
 <!--SR:!2024-10-29,28,230-->
 
 Without external factors, only natural-born geniuses come up with new ideas. This is known as the ==great men theory.==
-<!--SR:!2024-10-16,13,250-->
+<!--SR:!2024-11-18,33,250-->
 
 T/F: The internal approach is the most popular in mainstream media: ::True.
 <!--SR:!2024-10-31,35,270-->
@@ -125,7 +126,7 @@ T/F: The internal approach is the most popular in mainstream media: ::True.
 One of the biggest problems with the internal approach is that the Great Men ==didn't really== invent the technologies they're credited with.
 <<<<<<< HEAD
 <!--SR:!2024-11-13,35,250-->
-=======
+
 <!--SR:!2024-11-14,35,250-->
 >>>>>>> 7805544e686dd55bb8d339b9aa1de31d739cc874
 
@@ -133,20 +134,22 @@ Another problem with the internal model is that these great men are ==all white 
 <!--SR:!2024-11-21,45,250-->
 
 In the internal approach, we have a unidirectional model, where ==we have a one-way, always-positive relationship with technology.==
-<!--SR:!2024-10-14,23,250-->
+<!--SR:!2024-12-13,58,250-->
 
 T/F: In internal model, technology shapes/influences society, and society also shapes and influences technology: ::False.
 <!--SR:!2024-10-21,27,270-->
 
 Technological determinism posits that ==technology is the most decisive factor behind change and development.==
 <<<<<<< HEAD
-<!--SR:!2024-10-13,4,130-->
+<!--SR:!2024-10-19,3,251-->
+
 =======
-<!--SR:!2024-10-22,12,150-->
+
 >>>>>>> 7805544e686dd55bb8d339b9aa1de31d739cc874
+<!--SR:!2024-10-22,6,130!2024-10-22,12,150-->
 
 The evolutionary model states that ==technology always evolves from  "primitive" to "better", more complex technologies.==
-<!--SR:!2024-10-11,20,250-->
+<!--SR:!2024-12-05,50,250-->
 
 The external approach takes into account the impact ==society== has in the development of technology.
 <!--SR:!2024-10-28,32,270-->
@@ -158,19 +161,19 @@ In the external model there are no in-born geniuses or independent ideas, as eve
 <!--SR:!2024-10-31,35,270-->
 
 Failure and success of technology in the external model is determined by ==external social factors.==
-<!--SR:!2024-10-12,16,210-->
+<!--SR:!2024-11-19,34,210-->
 
 Social factors affecting the success of technology in the external approach include: :: Religion, social beliefs and norms, and others.
 <!--SR:!2024-10-25,24,230-->
 
 The downside of the external approach is the idea of social determinism —:: All technological change is socially determined.
-<!--SR:!2024-10-15,18,190-->
+<!--SR:!2024-11-19,34,190-->
 
 In the external approach, society is ==always== in control of technology.
 <!--SR:!2024-10-24,30,270-->
 
 The interactive approach is a more ==modern== approach.
-<!--SR:!2024-10-16,15,250-->
+<!--SR:!2024-11-23,38,250-->
 
 The interactive approach stipulates that ==technology and society influence each other.==
 <!--SR:!2024-10-20,19,230-->

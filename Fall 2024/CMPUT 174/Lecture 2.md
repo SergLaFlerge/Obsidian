@@ -64,7 +64,7 @@ The type of object determines  two things: ==how much space it takes, as well as
 <!--SR:!2024-10-25,24,230-->
 
 The acronym KILOD stands for::keyword, identifier, literal, operator, delimiter.
-<!--SR:!2024-10-14,23,250-->
+<!--SR:!2024-12-13,58,250-->
 
 A ==token== is smallest meaningful unit in a program.
 <!--SR:!2024-11-10,38,250-->
@@ -73,22 +73,22 @@ Words reserved for a specific purpose are called::keywords.
 <!--SR:!2024-10-21,27,270-->
 
 ==Identifiers== are used to refer to objects in memory (built-in or user made.)
-<!--SR:!2024-10-12,16,210-->
+<!--SR:!2024-11-19,34,210-->
 
 ==Literals== are used to represent constant, fixed values.
 <!--SR:!2024-10-19,25,250-->
 
 There are three kinds of literals: ::Integer literals, floating point literals, and string literals.
-<!--SR:!2024-10-11,20,250-->
+<!--SR:!2024-12-05,50,250-->
 
  Integer literals are composed of ==only digits (whole numbers.)==
-<!--SR:!2024-10-14,23,250-->
+<!--SR:!2024-12-13,58,250-->
 
 Floating point literals are composed of ==only digits and a single decimal point.==
 <!--SR:!2024-11-10,38,250-->
 
 String literals are composed of ==any characters surrounded by single or double quotes.==
-<!--SR:!2024-10-11,20,250-->
+<!--SR:!2024-12-05,50,250-->
 
 Operators are used to refer to ==operations on objects.==
 <!--SR:!2024-11-21,45,250-->
@@ -101,6 +101,7 @@ Special characters with varying functions are called ==delimiters.==
 <!--SR:!2024-10-20,13,248-->
 
 =======
+<!--SR:!2024-10-18,2,248-->
 
 >>>>>>> d0b094a8b260a2b9f17a7f0450f07fc03ef21122
 <!--SR:!2024-10-11,20,250!2024-10-05,9,230-->

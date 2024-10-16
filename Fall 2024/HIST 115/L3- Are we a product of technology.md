@@ -87,7 +87,7 @@ The earliest examples of technology from early humans were known as ==flake tool
 >>>>>>> 7805544e686dd55bb8d339b9aa1de31d739cc874
 
 To make flake tools, early humans would take hard stones and ==smash them into softer stones,== creating sharp flakes.
-<!--SR:!2024-10-11,20,250-->
+<!--SR:!2024-12-05,50,250-->
 
 Flake tools were often made of ==quartz, basalt, and obsidian.==
 <!--SR:!2024-11-10,37,250-->
@@ -99,7 +99,7 @@ The main difference between core tools and flake tools is that, in core tools, =
 <!--SR:!2024-10-17,23,250-->
 
 The creation of core tools introduced some form of ==standardization== to tool making.
-<!--SR:!2024-10-11,20,250-->
+<!--SR:!2024-12-05,50,250-->
 
 With the bigger core tools, we were able to obtain more meat from ==hunting bigger animals==, giving us larger brains.
 <!--SR:!2024-11-10,37,250-->
@@ -124,7 +124,7 @@ As we transition to a more stationary lifestyle, we see, shift from "eat when yo
 <!--SR:!2024-10-28,32,270-->
 
 The surplus of food created :: division of labor, specialization, the political elite, and the first towns.
-<!--SR:!2024-10-13,10,190-->
+<!--SR:!2024-11-04,19,190-->
 
 The biggest change due to the surplus of food is that we start seeing ==thousand of people== living in one area for long periods of time.
 <!--SR:!2024-11-10,37,250-->
@@ -143,7 +143,7 @@ As society developed, we began using technology to exercise ==dominance over nat
 <!--SR:!2024-11-02,26,230-->
 
 Since the rivers in Mesopotamia were not predictable, the Sumerians had to invent ==irrigation==.
-<!--SR:!2024-10-11,20,250-->
+<!--SR:!2024-12-05,50,250-->
 
 In order for their irrigation system to be efficient, the  Sumerians needed a standard used measurement system, as well as a standardized way to communicate said measurements, for which they developed ==mathematics==.
 <!--SR:!2024-10-17,23,252-->
@@ -175,16 +175,16 @@ Despite having a large number of tablets from the Sumerians, we are largely unaw
 <!--SR:!2024-11-14,38,252-->
 
 Since everyone wanted to trade with the Sumerians, the ==wheel== is invented, although it wouldn't catch on right away.
-<!--SR:!2024-10-13,19,252-->
+<!--SR:!2024-12-03,48,252-->
 
 The wheel failed to make the immediate impact we think it would have since ==road systems were not yet invented==, making it dangerous to travel by land.
 <!--SR:!2024-11-14,38,252-->
 
 The Sumerians invent the first ==proper armies== as a result of their increased trade and wealth.
-<!--SR:!2024-10-13,6,212-->
+<!--SR:!2024-10-30,14,212-->
 
 From the creation of the first armies, we start seeing ==smelting==, leading to the development of the first metal weapons.
-<!--SR:!2024-10-16,13,252-->
+<!--SR:!2024-11-18,33,252-->
 
 Tin and copper made bronze, giving us a new relationship technology, where we have made something that ==did not previously exist== in nature.
 <!--SR:!2024-10-26,30,272-->
