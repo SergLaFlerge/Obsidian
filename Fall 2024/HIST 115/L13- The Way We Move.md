@@ -35,4 +35,40 @@ From 1934-1957, we get the Citroen Traction Avant, the first uni-body front-whee
 
 In 1940, we get the first 4 by 4 cars by Jeep.
 
-1950-1959 is the golden bays of cars and rock and roll. This is the time where cars become embedded into our culture. Many of the designs were influenced by the "jet age" and so we get many cars with jet inspired designs. Profs fave is the 1951 GM LeSabre (F-86 Sabre jet)
+1950-1959 is the golden bays of cars and rock and roll. This is the time where cars become embedded into our culture. Many of the designs were influenced by the "jet age" and so we get many cars with jet inspired designs. Profs fave is the 1951 GM LeSabre (F-86 Sabre jet).
+
+In 1969, we get the Range Rover, which marked the birth of the SUV. It was a vehicle that had off-road capabilities, but could be used as a regular car in the city as well.
+
+In the 1970's, we get the American "gas guzzlers" and box cars. This was fine because gas at the time was cheap and practically unlimited. This wouldn't last, however, as the oil crisis would hit from 1973-1979. The US, Canada, Western Europe, and Japan would all run out of gasoline. The US supplied weapon to Israel, which the Arab countries responded by placing embargos.
+
+This is shortage caused car designs to become super compact and fuel efficient. The first European model was the Fiat model 126.
+
+In 1983, Dodge makes the dodge Caravan, and sets the paradigm of the modern Minivan. They would mostly be phased out by SUVs, but still have their uses even today.
+
+Around the 80's and 90's, Japan would explode in popularity, due to their cars being small but very powerful. As powerful as the gas guzzlers of the previous era.
+
+## Cars of the Future
+
+What will be the future of the car industry? Specially with the talk of switching to electric. Many companies have started making hybrid models, that take the best of both, for the most part.
+
+One of the first alternate sources of fuel was nuclear powered cars. The 1962 Ford XXI was such example. This obviously had many problems, mainly the radioactivity and size of the reactors. It was very hard to transmit the nuclear power to mechanical power, so that was the final straw.
+
+The government also had the fear of giving the common person a nuclear reactor, particularly in the case of some commies grabbing it and using it for the wrong reasons.
+
+The car that started the modern resurgence of the electric vehicle was the 1997 Honda EV. It was a commercial failure. One of the reasons was purely aesthetic, as it was very ugly. It was ludicrously expensive, and you didn't technically own it.
+
+Yet another possibility was using hydrogen fuel cells. It has some advantages, but the main problem is the sheer weight. Converting hydrogen to mechanical power takes lots of equipment, and worst of all, the hydrogen is super compressed, making it *highly* explosive. HFCs may have a use in trains and such, but not the everyday car. There is also not that much hydrogen in the earth, so where will we get the necessary amount? With that, there is also no real infrastructure for it.
+
+Will electric cars have the same impact on our culture as other cars? Prof thinks probably not. He thinks we will treat them just as we have in the past: Just a tool to get from A to B. Regular cars give the common person the freedom to go anywhere and interact multiple levels. Electric cars now have many ways to track your data, which can then be sold to companies. Electric vehicles are also highly limited and hard to work on/fix.
+
+The EV fad is designed to be a controlled transportation system, with 100% disposable products that are designed to fail.
+
+All these factors contribute to the lack of attachment.
+
+He also thinks they're ugly as fuck, which is fair and true.
+
+These cars are also advertised as "clean", but really, the materials needed cause a huge environmental impact, and these resources are highly limited and non-renewable.
+
+Prof thinks we will go back to nuclear energy.
+
+The internal combustion engine was a part of the puzzle for another industry, planes.
