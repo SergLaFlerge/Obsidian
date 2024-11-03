@@ -50,3 +50,9 @@ The next thing was making more powerful turbojet engines. This allowed for highe
 The next and arguably the biggest problem was control surfaces. At such high speeds, the control surfaces would not respond. The answer was simple: Make the control surfaces larger. Next was implementing something known as the "coke bottle principle". By reshaping the engines into a coke bottle shape, one reduces drag. The ultimate combination of all these principles come together in the Lockheed SR 71 Blackbird. It has achieved speeds of over 3500 km/h. It was built purely for speed, with zero armaments.
 
 Engineers combined turbojets and ramjets to achieve this. They first use the turbojets to get up to a high enough sped to activate the ramjets, which would then take it to incredible speeds.
+
+There is one major technological obstacle that has not yet been overcome: Going that fast, the plane gets **hot**and parts expand. One would have to make a leaky tank so that, when going fast, the hot parts would expand and finally seal. They also got around cooling by using the fuel itself as a coolant before being spent.
+
+The SR-71 would be the first plane to be coined "hypersonic". At this point, speed is not limited by technology. It is now our biology. It was around here when humans developed yet another new relationship with technology. Flying has now become about unmanned flights, rather than manned ones, especially within military uses.
+
+Flight revolutionized travel. A one month trip across the Atlantic now took 3 hours (1 hour for the SR-71). We would become more interconnected than every before. All this technology would be fueled by military desires, and it makes a great example of technology being driven by warfare.
