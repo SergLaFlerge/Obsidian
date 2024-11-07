@@ -56,3 +56,21 @@ The German response to the T-34 was the Panzer V, known as the Panther. It also 
 This tank was made with the complete opposite approach to German designs. It was simple, had low fuel consumption, it was fast, maneuverable, had low cost of production, and came in large numbers. Another German flaw was that Hitler insisted that tanks get bigger and bigger and bigger. His involvement produced the Panzer VI Tiger. It was supposed to be a medium sized tank, but mans kept making it heavier and heavier. It was very slow and consumed lots of fuel. The one thing it had going for it was its gun. It caused lots of damage. Another problem was that the amount of armor was literally impenetrable by allied tanks. Since the Germans also had superior optics. Essentially, the Tiger could destroy any allied tank 1 km out of allied range. The Tiger did have a weak point in the back, but that was not the way they were beat. The simple reason they failed so utterly was that they had extremely little fuel. This, combined with it's low fuel efficiency, made it obsolete very quickly. The Russians would eventually make a contender for the Tiger: The IS-2. It used 2-stage ammunition, and ultimately also failed, but Russian tanks would prevail due to sheer quantity.
 
 Hitler was obsessed with tanks. He considered himself the expert, and it was him that pushed tanks to get heavier. This led Germany to develop bigger engines.
+
+The largest tank ever produced was made for Hitler as a gift: The Mouse Porsche. It was completely useless. It weighed 190 tons and no bridges would support it.
+
+Hitler made and even bigger one, known as The Rat. It would have weighed 1000 tons. Thankfully the war ended.
+
+Regardless, German tank designs would still be used as inspiration for modern tanks.
+
+## Secret Technologies and Weapons
+
+One of the secret weapons and technologies that were studied by the Germans were the so-called UFOs. While the Germans did not actually meet aliens, they did work on flying saucers. They were small prototypes that functioned with small jet engines. According to witnesses, it was a failure, since that had little to no control beyond vertical. They were eventually beat by helicopters. Despite their failure, it still had impact outside Germany. The US contracted Canadian company Avro to make its own flying saucer prototype. It came to be known as The Avrocar.
+
+Another secret technology that was prototyped but never finished was known as the Silver Bird. It was essentially a space shuttle meant to work as a long range weapon. I would still leave a big impact for space travel.
+
+The most influential technology, however, was atomic physics. Thanks to the likes of Werner Heisenberg, the Germans managed to split the atom. The Germans may have won the war with this technology, had Hitler not considered it to be a Jewish science.
+
+We know about the Manhattan project, but there was a secret parallel project known as the Alsos project. It was highly classified until about 20 years ago. The project involved trying to get as much Uranium from Germany as possible, as well as capturing nuclear scientists to bring home to America.
+
+Jet powered bombers would also be inspired by the Germans, and would play a major role in the Cold War. From this, the US F-86 would be born. It was the fastest and most advanced jet. The Russians would also secretly work on their own plane: The MIG 15. It was the fastest and most advanced jet. They two planes would go head to head during the Korean war and... They were essentially identical. The F-86 would prove superior due to better materials, but they were both based off the same German designs.

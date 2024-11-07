@@ -77,7 +77,7 @@ We now have tin (230 C) and copper (1084 C) making bronze, giving us a knew rela
 #flashcards115 
 
 2.5 million years ago, early human societies were starting to be seen in an area known as ==The Great Rift Valley.==
-<!--SR:!2024-10-29,28,230-->
+<!--SR:!2025-01-10,66,230-->
 
 The earliest examples of technology from early humans were known as ==flake tools, or the Oldowan mode.==
 <<<<<<< HEAD
@@ -93,10 +93,10 @@ Flake tools were often made of ==quartz, basalt, and obsidian.==
 <!--SR:!2024-11-10,37,250-->
 
 1.5 million years ago, we start seeing the development of more advanced tools, which we now call ==core tools, are the Acheulean tools.==
-<!--SR:!2024-10-18,24,270-->
+<!--SR:!2025-01-11,67,270-->
 
 The main difference between core tools and flake tools is that, in core tools, ==the flakes are discarded==, as opposed to being the tool.
-<!--SR:!2024-10-17,23,250-->
+<!--SR:!2024-12-31,56,250-->
 
 The creation of core tools introduced some form of ==standardization== to tool making.
 <!--SR:!2024-12-05,50,250-->
@@ -105,7 +105,7 @@ With the bigger core tools, we were able to obtain more meat from ==hunting bigg
 <!--SR:!2024-11-10,37,250-->
 
 With our bigger brains, we started to develop more ==new technologies==.
-<!--SR:!2024-11-01,35,270-->
+<!--SR:!2025-02-08,95,270-->
 
 With the end of the ice age, the world got very hot and dry, forcing humans to move due to ==lack of food and water==.
 <<<<<<< HEAD
@@ -115,16 +115,16 @@ With the end of the ice age, the world got very hot and dry, forcing humans to m
 >>>>>>> 7805544e686dd55bb8d339b9aa1de31d739cc874
 
 11 000 years ago, humans find paradise:  ==Mesopotamia==. This is repeated across the world.
-<!--SR:!2024-11-01,35,270-->
+<!--SR:!2025-02-06,93,270-->
 
 In Mesopotamia, we see the domestication of animals, as well as another major technology, known as ==agriculture==.
-<!--SR:!2024-10-21,27,270-->
+<!--SR:!2025-01-18,74,270-->
 
 As we transition to a more stationary lifestyle, we see, shift from "eat when you catch it" to "==save the best for the next year==."
-<!--SR:!2024-10-28,32,270-->
+<!--SR:!2025-01-30,86,270-->
 
 The surplus of food created :: division of labor, specialization, the political elite, and the first towns.
-<!--SR:!2024-11-04,19,190-->
+<!--SR:!2024-12-11,36,190-->
 
 The biggest change due to the surplus of food is that we start seeing ==thousand of people== living in one area for long periods of time.
 <!--SR:!2024-11-10,37,250-->
@@ -140,29 +140,30 @@ As society developed, we began using technology to exercise ==dominance over nat
 >>>>>>> 7805544e686dd55bb8d339b9aa1de31d739cc874
 
 ==power, wealth, and prestige== are other consequences of civilization.
-<!--SR:!2024-11-02,26,230-->
+<!--SR:!2025-01-04,60,230-->
 
 Since the rivers in Mesopotamia were not predictable, the Sumerians had to invent ==irrigation==.
 <!--SR:!2024-12-05,50,250-->
 
 In order for their irrigation system to be efficient, the  Sumerians needed a standard used measurement system, as well as a standardized way to communicate said measurements, for which they developed ==mathematics==.
-<!--SR:!2024-10-17,23,252-->
+<!--SR:!2024-12-31,56,252-->
 
 The Sumerians needed people to understand mathematics and use it to make functional projects, for with the concept of the ==engineer== was created.
 <<<<<<< HEAD
 <!--SR:!2024-11-23,45,252-->
 
 The concepts of the ==time, clock, and calendar== were invented because the Sumerians had to keep track of when to start and finish projects.
-<!--SR:!2024-10-23,14,232-->
+
 =======
-<!--SR:!2024-11-24,45,252-->
+<!--SR:!2024-12-07,32,232-->
 
 The concepts of the ==time, clock, and calendar== were invented because the Sumerians had to keep track of when to start and finish projects.
-<!--SR:!2024-10-27,17,232-->
+
 >>>>>>> 7805544e686dd55bb8d339b9aa1de31d739cc874
+<!--SR:!2024-12-14,39,232-->
 
 The Sumerians would now have people that would work exclusively on construction projects. Because of this we start seeing the first ==pyramids/ziggurats==.
-<!--SR:!2024-10-23,13,212-->
+<!--SR:!2024-11-12,7,192-->
 
 Sumerians cities got so large that people started needing specific people to communicate with their leaders, and so ==lawyers== were invented.
 <<<<<<< HEAD
@@ -181,10 +182,10 @@ The wheel failed to make the immediate impact we think it would have since ==roa
 <!--SR:!2024-11-14,38,252-->
 
 The Sumerians invent the first ==proper armies== as a result of their increased trade and wealth.
-<!--SR:!2024-10-30,14,212-->
+<!--SR:!2024-12-04,29,212-->
 
 From the creation of the first armies, we start seeing ==smelting==, leading to the development of the first metal weapons.
 <!--SR:!2024-11-18,33,252-->
 
 Tin and copper made bronze, giving us a new relationship technology, where we have made something that ==did not previously exist== in nature.
-<!--SR:!2024-10-26,30,272-->
+<!--SR:!2025-01-26,82,272-->

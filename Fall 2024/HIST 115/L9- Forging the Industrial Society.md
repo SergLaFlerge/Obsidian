@@ -1,3 +1,5 @@
+# Forging the Industrial Society
+ 
  We look at three points:
 1. "The holy other."
 2.  Steam engine.
