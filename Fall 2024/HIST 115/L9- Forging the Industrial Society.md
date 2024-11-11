@@ -15,7 +15,7 @@ Isaac Newton has to go home in 1665 due to the plague. Mans locks himself up in 
 
 Newton would "discover" the elixir of life, which was actually just mercury, and he would drink it. A main symptom of mercury poisoning is paranoia, which he fell victim to.
 
-In 1679, Robert Hooke approaches Newton several times, finally managing to ask him to publish his work on gravity. He refused until he was forced in 1687, where he published his Principia Mathematica. It wouldn't have a very big impact due to how hard it was to read. However, this book would change British society. Once his work was translated into English, it was realized that the whole world follows the same universal laws. This would incite social change. People in poverty would no longer be poor due to their since, but because of their social standing.
+In 1679, Robert Hooke approaches Newton several times, finally managing to ask him to publish his work on gravity. He refused until he was forced in 1687, where he published his Principia Mathematica. It wouldn't have a very big impact due to how hard it was to read. However, this book would change British society. Once his work was translated into English, it was realized that the whole world follows the same universal laws. This would incite social change. People in poverty would no longer be poor due to their sins, but because of their social standing.
 
 Newton continued his alchemical work in secrecy. In 1690, Robert Hooke would build reflective telescopes in order to solve the problem of not having good enough telescope technology. Newton gets in a fight with Hooke and proclaims that he will never publish again until Hooke was dead.
 

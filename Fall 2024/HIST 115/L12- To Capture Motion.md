@@ -16,6 +16,6 @@ Charlie's films created the art form of expressionism, which went against the me
 
 The takeover of industry by Hollywood brought the end of film as an art form. There were no longer independent artists. What we see is soulless repetitions of the same films and stories that avoided real-life social issues. Although Hollywood's code is different, the system has not changed. Film industry in 2020's is a "quested for predictable sails and profits." Before anything, a film must make money first.
 
-We have endless replications/copying of films/ideas that made money in the past. They favor quantity over quality. The introduction of AI into the film industry will make this problem much, much worse. Now there won't even be any humanity. Prove thinks by 2026-2027 we will see much more AI in film, furthering the quantity over quality approach.
+We have endless replications/copying of films/ideas that made money in the past. They favor quantity over quality. The introduction of AI into the film industry will make this problem much, much worse. Now there won't even be any humanity. Prof thinks by 2026-2027 we will see much more AI in film, furthering the quantity over quality approach.
 
-Photography/film were products of the industrial revolution. By 1900's, steam meets intentional combustion engines, and reaches its technological limit.
+Photography/film were products of the industrial revolution. By 1900's, steam meets internal combustion engines, and reaches its technological limit.

@@ -33,7 +33,7 @@ Pretty much no. Just about every single photograph is staged to some extent.
 
 # Cameras
 
-The concept of a camera predates photography by about 1000 years. It was composed of a wooden bogs, lens, and a reflecting mirror. The lens would capture the image is that was then reflected into a dark room. The main use was for artists to essentially cheat by placing a blank canvas in front of the mirror and painting over the image.
+The concept of a camera predates photography by about 1000 years. It was composed of a wooden box, lens, and a reflecting mirror. The lens would capture the image is that was then reflected into a dark room. The main use was for artists to essentially cheat by placing a blank canvas in front of the mirror and painting over the image.
 
 Around 1855, we get the first Collodion dry plate cameras. They were fairly small, and because the "film" was light sensitive, we start seeing more outdoor photography. In 1900, George Eastman would make the first 118mm roll-film camera, named Kodak. It could take about 100 photos, and it was plug and play; no need to be and expert. This was also super cheap. As such, photography becomes a very popular activity. This camera would completely remove the photographer from the is developing process. People would simply mail their cameras to the Kodak factory where the images would be developed. They would then ship it back to you, reloaded and with both your pictures and the negatives. In 1914, the 35 mm cameras enter the picture and becomes the standard until 2008. In 1975, Kodak makes the first digital camera, but they were not commercially available.
 
