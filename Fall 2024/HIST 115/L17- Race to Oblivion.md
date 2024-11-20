@@ -34,3 +34,14 @@ The Americans were not the only ones to get their hands on German tech and scien
 
 ## Race to Oblivion
 
+This was the race between East and West. In October 4th 1957, Sputnik 1 became the first man-made object sent to space. It was a huge hit to the American propaganda, specially because it was equipped with 50 kilograms of radio equipment, which broadcasted pro-communism messages. The size of the payload was significant, as that was the size of the bomb's payload that ended WWII. This meant Russia was capable of bringing nuclear weapons into space.
+
+In 1958, NASA is established as a response to Russian advancements. In 1961, Vostok 1 brings the first human — Yuri Gargarin — to space. He tragically died, or most likely murdered.
+
+In 1963, Valentina Tereshkova becomes the first woman in space. Again a major win for the Russians. They further dominate by sending Luna 9 to the moon, and successfully land it. That same year, the Russians send Venera 3 to Venus and becomes the first man-made object successfully sent to another planet. Finally, Zond 5 becomes the first object to orbit the mon and come back. With all these achievements, everything was now in place for sending humans to the moon.
+
+In fact, despite all the Russian wins, it would be the Americans that would "win" the space race by becoming the first to send people to the moon, on July 20, 1969.
+
+After this, public interest dropped significantly. This resulted in major budget cuts, which pushes the west to make shuttles, which would be reusable and therefore cheaper. The east saw this as a new weapon platform, as opposed to the west, where it was — at least publicly — seen as a peaceful endeavor.
+
+Eastern space travel would continue with a lot of fervor until the collapse of the Soviet Union, after which there would be no government support. We can see how space travel depended greatly on external factors.
