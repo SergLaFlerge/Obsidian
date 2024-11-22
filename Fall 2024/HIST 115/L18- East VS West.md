@@ -36,6 +36,18 @@ One thing that communism had was support for the families. Kids growing up durin
 
 The health care system was very robust, at work, school, and home. Every factory and school would have their own hospital, dentist, and more. And it would all be free. We have a shadow of this system here in Canada. People wouldn't have to work at all when sick, and the state would take care of you.
 
-There was "no crime" (no visible crime anyways.) This was due of course by the large police presence. Of course, the majority of crimes were commit by the police.
+There was "no crime" (no visible crime anyways.) This was due of course by the large police presence. Of course, the majority of crimes were committed by the police.
 
-There was also no unemployment or homelessness. A side effect was that you could go to work and do nothing. This leads to a lack of perspective and motivation, leading to alcoholism.
+There was also no unemployment or homelessness. A side effect was that you could go to work and do nothing. This leads to a lack of perspective and motivation, leading to alcoholism. Got so bad that many instituted a rule of no drinking before 1pm. Did not help much as people simply made their own shit at home.
+
+Higher education such as university was free, but those who were more highly educated were paid less than the uneducated. A PhD would make less than a factory worker. A consequence of this was that people doing PhDs would do it mostly for the passion rather than the money.
+
+Housing was also "free". They believed that "[the] house is a right of every citizen, not a commodity." Naturally, the free homes were ugly apartments, however there were no developers, and so urban planning was a form of art and social improvement. "At no point should pedestrian are child need to cross a road." There would be no need for a car. Communities were formed within these spaces that became self-sufficient. Things were built to last, no planned obsolescence. Everything was 100% reusable packaging. There was no waste. Everything that was grown, was grown naturally. No processed foods.
+
+## The Secret of Secrets — Technology that Shocked the West
+
+In the 70s, Edward Gierek became leader of the Communist party in Poland. He would invest in secret nuclear projects. The main safeguards against people making nukes in their homes are the cost and the impossible to obtain materials. But what if it was possible? In 2020, prof gets access to some documents related to something known as the "Kaliski's affair". From it came the idea of the "neutron bomb". It would be the most powerful nuclear weapon one could produce. A neutron bedroom would be a true fusion bomb. A clean bomb so to speak, as opposed to the H-bombs which were considered "dirty bombs" due to their fission bomb requirements.
+
+The neutron bomb was a wonder weapon. Neutrons penetrate anything in their path, and leave no nuclear fallout. Kaliski would go to the US and reveal this project to the Americans. On the way back, in 1978, Kaliski was killed and his research disappeared.
+
+So why is this of importance today? Well, in 2022, we were finally able to achieve fusion ignition. That is, achieving more energy output than what was used to start the reaction. But we've heard this before, have we not? Kaliski had supposedly already done this in the 70s. This is also posed as "unlimited energy source for world peace." But we know the military implications. We get this dualism of technology and the belief in scientism.
