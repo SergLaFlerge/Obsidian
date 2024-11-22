@@ -1,4 +1,4 @@
-Angle,Angle Error,Voltage,Voltage Error
+Angle,Angle Error,Voltage. (mV),Voltage Error (mV)
 160,1,185,1
 156,1,183,1
 154,1,181,0.9
