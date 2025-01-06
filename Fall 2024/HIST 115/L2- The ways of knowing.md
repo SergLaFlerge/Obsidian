@@ -1,5 +1,5 @@
 
-<!--SR:!2024-10-19,3,251--># The Ways of Knowing
+# The Ways of Knowing
 
 Two major points:
 1. What is technology?
