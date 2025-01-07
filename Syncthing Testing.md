@@ -4,3 +4,6 @@ Let's hope for the best...
 
 
 IT WORKSSS
+
+<ruby><rb>Target Words</rb><rp>(</rp><rt>Phonetic Characters<rt><rp>)</rp></ruby>
+
