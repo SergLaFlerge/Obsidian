@@ -1,0 +1,111 @@
+# Pre-class Remarks
+
+## Space-time Translations
+
+The action constructed from relativistic fields is invariant under Lorentz transformations and coordinate translations. Looking at translations, let us define a change in the space-time coordinates by
+
+$$
+x^{\mu} \to x^{\mu} + a^{\mu},
+$$
+
+where $a^{\mu}$ is constant (does not depend on $x^{\mu}$). As the fields do not change at any point, we have
+
+$$
+\delta \Phi^{A} = 0.
+$$
+
+This is true for arbitrary $a^{\mu}$, so we can say that
+
+$$
+\partial_{\mu}T^{\mu \nu} = 0.
+$$
+
+In particular, there is an implied conservation of the quantity
+
+$$
+P^{\mu} = \int T^{0 \mu}\dd[3]{x},
+$$
+
+which is the 4-momentum of the field. It is *easy* to see that $P^{0}$ is the total Hamiltonian as defined from [[Winter 2025/PHYS 495/Lecture 2#^d1ee1d|before]].
+
+## Lorentz Transformations
+
+The infinitesimal transformations are then
+
+$$
+x'^{\mu} = x^{\mu} + \omega^{\mu \nu}x_{\nu}.
+$$
+
+$\omega^{\mu \nu}$ are independent of $x$, and because $x^{\mu}x_{\mu}$ is invariant, they must also be antisymmetric. The field variations are written in terms of a *spin matrix* $\Sigma$:
+
+$$
+\delta \Phi^{A}(x) = \frac{1}{2}\omega_{\lambda \rho}(\Sigma^{\lambda \rho})^{A}_{B}\Phi^{B}.
+$$
+
+The factor of $1/2$ appears to prevent double-counting. Putting these into the current equation, we get
+
+$$
+\partial_{\mu}\left[\pdv{\mathcal{L}}{(\partial_{\mu}\Phi^{A})}\frac{1}{2}\omega_{\lambda \rho}(\sigma^{\lambda \rho})^{A}_{B}\Phi^{B}-T^{\mu \lambda}\omega_{\lambda \rho}x^{\rho} \right] = 0.
+$$
+
+We can pull out the $\omega^{\lambda \rho}$ since they are constants. Using their antisymmetric properties, we can write the above as
+
+$$
+\partial_{\mu}\mathcal{M}^{\mu \lambda \rho}= \pdv{\mathcal{L}}{(\partial_{\mu}\Phi^{A})}(\Sigma^{\lambda \rho})^{A}_{B}\Phi^{B}-(T^{\mu \lambda}x^{\rho}-T^{\mu \rho}x^{\lambda}).
+$$
+
+The conserved charges for this case are
+
+$$
+J^{\lambda \rho} = \int \mathcal{M}^{0 \lambda \rho}\dd[3]{x},
+$$
+
+whose space components $J^{ij}$ are related to angular momentum by
+
+$$
+J^{k} = \frac{1}{2}\epsilon^{ijk}J_{ij}.
+$$
+
+Note that the $J^{0i}$ correspond to Lorentz boosts.
+
+## Internal Symmetries
+
+Internal symmetries relate different fields at the same space-time point. Here, $\delta x^{\mu}= 0$, so we may write the transformation of the fields as
+
+$$
+\Phi^{A} \to \Phi^{A}(x) + f_{r}^{A}(x)\delta \epsilon_{r}, \quad r = 1, \cdots, p,
+$$
+
+which leaves the action invariant. The $\delta \epsilon_{r}$ are infinitesimal parameters that are independent of space-time and $f^{A}_{r}(x)$ are specified functions of the fields and their derivatives. The index $r$ only indicates the type of symmetry and is not summed over. We may have several independent symmetries in one system. As such, we can treat them separately by defining the conserved current for the $r-$th symmetry:
+
+$$
+J^{\mu}_{r} = \pdv{\mathcal{L}}{(\partial_{\mu}\Phi^{A})}\frac{\delta \Phi A}{\delta \epsilon_{r}}.
+$$
+
+## Real Scalar Field
+
+With $c = 1$, we define the 4 momentum as
+
+$$
+p^{\mu} = (E, \mathbf{p}).
+$$
+
+From there, we obtain the classical relation
+
+$$
+\begin{align}
+p^{\mu}p_{\mu} - m^{2} = 0 \\[1 em]
+E^{2} & = m^{2} + \mathbf{p}^{2}.
+\end{align}
+$$
+
+Recall that, in quantum theory, momentum is an operator whose coordinate-space representation is given by $p_{\mu} \to i \partial_{\mu}$. If we substitute this into the above, we obtain
+
+$$
+\begin{align}
+-\partial^{\mu}\partial_{\mu}\phi - m^{2}\phi & = 0 \\[1 em]
+(\square + m^{2})\phi & = 0.
+\end{align}
+$$
+
+This is known as the *Klein-Gordon equation*. It was one of the first attempts at a relativistic quantum theory.

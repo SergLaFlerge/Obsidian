@@ -68,6 +68,8 @@ $$
 \mathcal{H}(\Phi^{A}, \nabla \Phi^{A}, \Pi_{A}) = \Pi_{A}\dot{\Phi}^{A}-\mathcal{L} (\Phi^{A}, \partial_{\mu}\Phi^{A}).
 $$
 
+^d1ee1d
+
 The Lagrangian is a function of the fields and their partial derivatives with respect to all space-time coordinates. In the Hamiltonian, the field time-derivatives are replaced by the canonical momenta $\Pi_{A}$. As a note, the Hamiltonian can still be a function of of spatial derivatives. The total Hamiltonian is analogous to the total Lagrangian (also a functional.)
 
 # In-class Notes

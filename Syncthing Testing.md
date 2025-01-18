@@ -7,3 +7,6 @@ IT WORKSSS
 
 <ruby><rb>Target Words</rb><rp>(</rp><rt>Phonetic Characters<rt><rp>)</rp></ruby>
 
+```python
+print("Hello world!)
+```
