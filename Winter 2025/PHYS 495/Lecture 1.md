@@ -19,7 +19,7 @@ g_{\mu\nu} = \begin{bmatrix}
 \end{bmatrix}.
 $$
 
-This is "Wrong," as when we take the length of a vector, it comes out as negative. The GR convention is $-g_{\mu\nu}$ gives the correct positive result.
+This is "Wrong," as when we take the length of a vector, it comes out as negative. The GR convention, $-g_{\mu\nu}$, gives the correct positive result.
 
 In QFT, we use functionals, which are similar to functions. just like how functions map numbers to numbers, functionals map functions to numbers. A very common functional we are already familiar with is the delta function. Indeed:
 
@@ -45,4 +45,3 @@ $$
 $$
 
 However, we cannot use Lagrangians directly to do QFT, as it is a strictly classical object. For this we need the Hamiltonian, which is related to the Lagrangian via the Legendre transform, which takes $(q,\dot{q})\to (q,p)$.
-

@@ -41,7 +41,7 @@ To calculate velocity, we must use the object's time $\tau$. Then,
 
 $$
 \begin{align}
-\vec{v} & = dv{x}{t} = \frac{1}{\gamma}\dv{x}{\tau} \\[1 em]
+\vec{v} & = \dv{x}{t} = \frac{1}{\gamma}\dv{x}{\tau} \\[1 em]
 \dv{x}{\tau} & = \gamma \dv{x}{t}.
 \end{align}
 $$
