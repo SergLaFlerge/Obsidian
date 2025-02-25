@@ -107,3 +107,9 @@ A \arrow[rd, "f \circ g" swap] \arrow[r, "f"] & B \arrow[d,"g"] \\
  \end{align}
 >$$
 
+$$
+\begin{CD}
+\kappa(q) = B_{q}/qB_{q}@< < < B_{q}\\
+@AAA @AAA6
+\end{CD}
+$$
