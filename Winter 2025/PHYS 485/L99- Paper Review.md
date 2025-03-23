@@ -1,6 +1,6 @@
 # Measurement of the Positive Muon Anomalous Magnetic Moment to 0.20 ppm
 
-This paper is self-explanatory. Physicists at  Fermilab present a new measurement of the positive muon magnetic moment  (defined $a_{\mu}\equiv (g_{\mu-2)/2}$) using data collected from the 2019 and 2020 runs of the $g-2$ experiment. Thanks to better running conditions, a more stable beam, and an improved knowledge of the magnetic field weighted by the muon distribution $\tilde{\omega}'_{p}$ as wells the anomalous precession frequency corrected for beam dynamics, the systematic error was reduced by more than a factor of 2 compared to the 2018 run. This time around, they determined $a_{\mu}= 116\;592\; 057 (25)\times 10^{-11}$ $(0.21)$ppm. They combined this result with the previous 2018 **citation needed** result to obtain $116 \; 592 \; 059 (22)\times 10^{-11}$ $(0.20)$ppm. The world average is now given at $a_{\mu}(\text{exp}) = 116 \; 592 \; 059 (22)\times 10^{-11}$ $(0.19)$ppm, which represents a factor of two improvement in precision.
+This paper is self-explanatory. Physicists at  Fermilab present a new measurement of the positive muon magnetic moment  (defined $a_{\mu}\equiv (g_{\mu-2)/2}$) using data collected from the 2019 and 2020 runs of the $g-2$ experiment. Thanks to better running conditions, a more stable beam, and an improved knowledge of the magnetic field weighted by the muon distribution $\tilde{\omega}'_{p}$ as well as the anomalous precession frequency corrected for beam dynamics, the systematic error was reduced by more than a factor of 2 compared to the 2018 run. This time around, they determined $a_{\mu}= 116\;592\; 057 (25)\times 10^{-11}$ $(0.21)$ppm. They combined this result with the previous 2018 **citation needed** result to obtain $116 \; 592 \; 059 (22)\times 10^{-11}$ $(0.20)$ppm. The world average is now given at $a_{\mu}(\text{exp}) = 116 \; 592 \; 059 (22)\times 10^{-11}$ $(0.19)$ppm, which represents a factor of two improvement in precision.
 
 ## Introduction
 
@@ -49,6 +49,16 @@ $$
 Blinding the data is important to minimize unconscious biases. This is represented by the clock-blinding factor $f_{\text{ clock}}$. $\omega^{m}_{a}$ is the measured precession frequency, and $C_{i}$ are five different correction terms, associated with the spatial and temporal motion of the beam.
 
 > [!PDF|note] [[L99-Paper Review.pdf#page=5&selection=8,0,13,17&color=note|L99-Paper Review, p.5]]
-> > The calibration procedure is improved for Run-2=3 compared to Run-1
+> > The calibration procedure is improved for Run-2-3 compared to Run-1
 > 
-> Start reading from here next.
+
+The improvements reduced the uncertainty to a factor of 20 ppb. This was done by increasing the terms used in the multipole expansion of the magnetic field. Other factors affecting the uncertainty include urn certainties from NMR frequency extraction as well as perturbation caused by the retraction of the trolley from the storage region. Both of these added approximately 20 ppb to the uncertainty.
+
+### Systematic Uncertainty
+
+They used a Brownian bridge model, a model describing Brownian motion with the added restriction that the start and end points yield the same value. They used this model for all three runs, but they dramatically increased the magnetic field maps from 14 in run-1 to 69 in run-2/3. This reduced the uncertainty from tracking the field to 10-16 ppb. They also corrected some tracking bias by 3-10 ppb.
+
+> [!PDF|note] [[L99-Paper Review.pdf#page=5&selection=107,0,107,25&color=note|L99-Paper Review, p.5]]
+> > Magnetic field transients
+> 
+>  Start here
