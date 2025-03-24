@@ -48,17 +48,41 @@ $$
 
 Blinding the data is important to minimize unconscious biases. This is represented by the clock-blinding factor $f_{\text{ clock}}$. $\omega^{m}_{a}$ is the measured precession frequency, and $C_{i}$ are five different correction terms, associated with the spatial and temporal motion of the beam.
 
+The following table shows all the parameters with their corrections and uncertainties:
+
+![[L99-Paper Review.png]]
+
+[[L99-Paper Review.pdf#page=3&rect=313,436,563,672|L99-Paper Review, p.3]]
+
 > [!PDF|note] [[L99-Paper Review.pdf#page=5&selection=8,0,13,17&color=note|L99-Paper Review, p.5]]
 > > The calibration procedure is improved for Run-2-3 compared to Run-1
 > 
 
 The improvements reduced the uncertainty to a factor of 20 ppb. This was done by increasing the terms used in the multipole expansion of the magnetic field. Other factors affecting the uncertainty include urn certainties from NMR frequency extraction as well as perturbation caused by the retraction of the trolley from the storage region. Both of these added approximately 20 ppb to the uncertainty.
 
+### Anomalous Precession Frequency
+
+The time dependence of the number of positrons from muon decays that are recorded in a storage period is given by an exponential decay function $N (t)$:
+
+$$
+\begin{align}
+ N (t) & = N_{0}\eta_{N}(t)e^{-t/\gamma \tau_{\mu}}\times \set{  1 +  A \eta_{A}(t)\cos[\omega_{a}^{m}t + \varphi_{0}+ \eta_{\phi}(t)] },
+\end{align}
+$$
+
+where $N_{0}$ is the normalization, $\gamma \tau_{\mu}$ is the *time-dilated muon lifetime* (taken to be $\approx 64.4\; \mu s$). $A$ is the average weak-decay asymmetry, and $\varphi_{0}$ is the average phase difference between the muon's momentum and its spin difference at the time of injection. All of $N_{0}$, $A$, and $\varphi_{0}$ have time-dependent correction factors $\eta_{i}$ that account for the horizontal and vertical beam oscillations.
+
+While nearly all of the parameters from above have some energy dependence, $N_{0}$ and $A$ are particularly affected by this. The team chose to combine the data in the *statistically optimal way* of weighting each positron by its energy-dependent asymmetry. Whatever that means.
+
+> [!PDF|note] [[L99-Paper Review.pdf#page=3&selection=517,0,534,54&color=note|L99-Paper Review, p.3]]
+> > Seven different analysis groups perform independent extractions of $\omega_{a}^{m}$ by a $\chi^{2}$ minimization. Each analysis team adds an independent blind offset to their result in addition to the aforementioned clock blinding. Two groups perform a new asymmetry-weighted ratio method by subdividing the data and constructing a ratio that preserves statistical power whilst reducing sensitivity to slow rate changes
+
 ### Systematic Uncertainty
 
 They used a Brownian bridge model, a model describing Brownian motion with the added restriction that the start and end points yield the same value. They used this model for all three runs, but they dramatically increased the magnetic field maps from 14 in run-1 to 69 in run-2/3. This reduced the uncertainty from tracking the field to 10-16 ppb. They also corrected some tracking bias by 3-10 ppb.
 
-> [!PDF|note] [[L99-Paper Review.pdf#page=5&selection=107,0,107,25&color=note|L99-Paper Review, p.5]]
-> > Magnetic field transients
-> 
->  Start here
+Another source of uncertainty is caused by transient magnetic fields, which themselves are caused by the pulsing ESQs, as well as eddy currents in the kickers. These effects both require correction, and both have been significantly improved from Run-1. During Run-1, the transient magnetic fields caused by the ESQ pulsing, known as $B_{q}$, was measured at a limited number of locations around the ring. To improve this, they used the same petroleum jelly NMR probe, but it was now mounted onto a non-conductive, movable device. This allowed them to map the transient fields between the ESQ plates azimuthally.
+
+Combining this improved mapping with better methodology as well as repeated measurements over time resulted in a reduction of this systematic effect by more than a factor of 4 to 20 ppb.
+
+For the kicker-induced eddy currents, $B_{k}$, the set up was improved to reduce vibrations, which reduced the uncertainty by 3 to 13 ppb
