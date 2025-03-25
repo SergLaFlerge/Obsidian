@@ -1,6 +1,6 @@
 # Measurement of the Positive Muon Anomalous Magnetic Moment to 0.20 ppm
 
-This paper is self-explanatory. Physicists at  Fermilab present a new measurement of the positive muon magnetic moment  (defined $a_{\mu}\equiv (g_{\mu-2)/2}$) using data collected from the 2019 and 2020 runs of the $g-2$ experiment. Thanks to better running conditions, a more stable beam, and an improved knowledge of the magnetic field weighted by the muon distribution $\tilde{\omega}'_{p}$ as well as the anomalous precession frequency corrected for beam dynamics, the systematic error was reduced by more than a factor of 2 compared to the 2018 run. This time around, they determined $a_{\mu}= 116\;592\; 057 (25)\times 10^{-11}$ $(0.21)$ppm. They combined this result with the previous 2018 **citation needed** result to obtain $116 \; 592 \; 059 (22)\times 10^{-11}$ $(0.20)$ppm. The world average is now given at $a_{\mu}(\text{exp}) = 116 \; 592 \; 059 (22)\times 10^{-11}$ $(0.19)$ppm, which represents a factor of two improvement in precision.
+This paper is self-explanatory. Physicists at  Fermilab present a new measurement of the positive muon magnetic moment  (defined $a_{\mu}\equiv (g_{\mu-2)/2}$) using data collected from the 2019 and 2020 runs of the $g-2$ experiment. Thanks to better running conditions, a more stable beam, and an improved knowledge of the magnetic field weighted by the muon distribution $\tilde{\omega}'_{p}$ as well as the anomalous precession frequency corrected for beam dynamics, the systematic error was reduced by more than a factor of 2 compared to the 2018 run. This time around, they determined $a_{\mu}= 116\;592\; 057 (25)\times 10^{-11}$ $(0.21)$ppm. They combined this result with the previous 2018 **Run-1 citation obtained** result to obtain $116 \; 592 \; 059 (22)\times 10^{-11}$ $(0.20)$ppm. The world average is now given at $a_{\mu}(\text{exp}) = 116 \; 592 \; 059 (22)\times 10^{-11}$ $(0.19)$ppm, which represents a factor of two improvement in precision.
 
 ## Introduction
 
@@ -14,10 +14,12 @@ Run-1 publications describe the principle of the experiment, as well as giving p
 
 Need more background on why this measurement is important, as well as a description of what $a_{\mu}$ is. No need to go into more detail on the method until we get to the method section.
 
+**Cite Fermilab webpage**
+
 ## Method
 
 > [!PDF|note] [[L99-Paper Review.pdf#page=2&selection=242,0,267,47&color=note|L99-Paper Review, p.2]]
-> > The experiment uses $3.1 GeV/c$ polarized muons produced at the Fermilab Muon Campus **citation needed**. Muons are injected into a $7.112$-m radius storage ring that was moved, and significantly upgraded, from the BNL experiment **citation needed**.
+> > The experiment uses $3.1 GeV/c$ polarized muons produced at the Fermilab Muon Campus **citation needed**. Muons are injected into a $7.112$-m radius storage ring that was moved, and significantly upgraded, from the BNL experiment **Fermilab website citation**.
 
 The key components of the storage ring are kicker magnets that direct the injected muons onto the central orbit of the storage ring, and the electrostatic quadrupoles (ESQs) that provide vertical focusing of the stored beam.
 
@@ -58,7 +60,7 @@ The following table shows all the parameters with their corrections and uncertai
 > > The calibration procedure is improved for Run-2-3 compared to Run-1
 > 
 
-The improvements reduced the uncertainty to a factor of 20 ppb. This was done by increasing the terms used in the multipole expansion of the magnetic field. Other factors affecting the uncertainty include urn certainties from NMR frequency extraction as well as perturbation caused by the retraction of the trolley from the storage region. Both of these added approximately 20 ppb to the uncertainty.
+The improvements reduced the uncertainty to a factor of 20 ppb. This was done by increasing the terms used in the multipole expansion of the magnetic field **Mention number of terms**. Other factors affecting the uncertainty include uncertainties from NMR frequency extraction as well as perturbation caused by the retraction of the trolley from the storage region. Both of these added approximately 20 ppb to the uncertainty.
 
 ### Anomalous Precession Frequency
 
@@ -79,7 +81,7 @@ While nearly all of the parameters from above have some energy dependence, $N_{0
 
 ### Systematic Uncertainty
 
-They used a Brownian bridge model, a model describing Brownian motion with the added restriction that the start and end points yield the same value. They used this model for all three runs, but they dramatically increased the magnetic field maps from 14 in run-1 to 69 in run-2/3. This reduced the uncertainty from tracking the field to 10-16 ppb. They also corrected some tracking bias by 3-10 ppb.
+They used a Brownian bridge model, a model describing Brownian motion with the added restriction that the start and end points yield the same value **Citation?**. They used this model for all three runs, but they dramatically increased the magnetic field maps from 14 in run-1 to 69 in run-2/3. This reduced the uncertainty from tracking the field to 10-16 ppb. They also corrected some tracking bias by 3-10 ppb.
 
 Another source of uncertainty is caused by transient magnetic fields, which themselves are caused by the pulsing ESQs, as well as eddy currents in the kickers. These effects both require correction, and both have been significantly improved from Run-1. During Run-1, the transient magnetic fields caused by the ESQ pulsing, known as $B_{q}$, was measured at a limited number of locations around the ring. To improve this, they used the same petroleum jelly NMR probe, but it was now mounted onto a non-conductive, movable device. This allowed them to map the transient fields between the ESQ plates azimuthally.
 
