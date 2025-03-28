@@ -88,3 +88,8 @@ Another source of uncertainty is caused by transient magnetic fields, which them
 Combining this improved mapping with better methodology as well as repeated measurements over time resulted in a reduction of this systematic effect by more than a factor of 4 to 20 ppb.
 
 For the kicker-induced eddy currents, $B_{k}$, the set up was improved to reduce vibrations, which reduced the uncertainty by 3 to 13 ppb
+
+## Statistical Significance
+
+> [!PDF|note] [[L99-Paper Review.pdf#page=6&selection=262,59,286,12&color=note|L99-Paper Review, p.6]]
+> > While a comparison between the Fermilab result from Run-1/2/3 presented here, $a_{\mu}$(FNAL), and the 2020 prediction yields a discrepancy of 5.0σ, an updated prediction considering all available data will likely yield a smaller and less significant discrepancy.
