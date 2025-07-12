@@ -113,3 +113,22 @@ $$
 @AAA @AAA6
 \end{CD}
 $$
+
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Writing/2025.4.16 - 9.52am.writing",
+	"width": 100
+}
+```
+
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2025.4.16 - 9.55am.drawing",
+	"width": 250,
+	"aspectRatio": 1
+}
+```

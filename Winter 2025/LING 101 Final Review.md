@@ -153,7 +153,7 @@ In short, **valency** is the number of argument that are required by a predicate
 2. **Transitive:** Interaction, motion  $+$ contact, induced change of state.
 3. **Ditransitive:** Transfer, interaction that affects a third party.
 
-The phrase "the dog gives me the balance at the park" still only has a valency of 3. The addition of "at the park" can be deleted and the phrase would still be complete. The valency, then, is the *minimal* number of arguments that a predicate needs.
+The phrase "the dog gives me the ball at the park" still only has a valency of 3. The addition of "at the park" can be deleted and the phrase would still be complete. The valency, then, is the *minimal* number of arguments that a predicate needs.
 
 ### Grammatical Relations
 
