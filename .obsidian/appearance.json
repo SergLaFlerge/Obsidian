@@ -1,0 +1,14 @@
+{
+  "cssTheme": "Prism",
+  "enabledCssSnippets": [
+    "Image Centering",
+    "Example callout recolor",
+    "Custom Callouts",
+    "Math Font Sizing"
+  ],
+  "translucency": true,
+  "baseFontSize": 16,
+  "accentColor": "",
+  "theme": "obsidian",
+  "textFontFamily": "Palatino Linotype,OCR A"
+}

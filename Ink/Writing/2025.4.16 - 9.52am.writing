@@ -27,7 +27,7 @@
 					"isLocked": false,
 					"opacity": 1,
 					"meta": {
-						"savedH": 975
+						"savedH": 675
 					},
 					"type": "writing-lines",
 					"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
@@ -48,7 +48,7 @@
 					"isLocked": true,
 					"opacity": 1,
 					"meta": {
-						"savedH": 975
+						"savedH": 675
 					},
 					"type": "writing-container",
 					"parentId": "page:3qj9EtNgqSCW_6knX2K9_",
@@ -3170,8 +3170,8 @@
 					"pageId": "page:3qj9EtNgqSCW_6knX2K9_",
 					"camera": {
 						"x": 0,
-						"y": 100,
-						"z": 0.556
+						"y": 0,
+						"z": 0.35
 					},
 					"selectedShapeIds": [],
 					"focusedGroupId": null

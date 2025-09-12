@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "a4fad77a182321e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "07b6f81585b0382d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a161d4075f64c95",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "731370f32da117bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "74acb87405f26bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adf3a2736da8cfbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ecefa8da4aa29ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fffd8f230bad04d4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "145f7874e4973c3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "02aed5e1a84ef262",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ec529a66a36b953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e236a6dbc7e36d42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb3a39c8799b2abf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa47baa162fd7cb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d85c53a229c0d4d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab9d78f8b6f2c126",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "03c77db2b0e36579",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "c5d77de5357b2487",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "af9af86c236ab646",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e6a33139f5d473c",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c5fc595025eb5b5",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "cmdr:Reload app without saving": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "univer:Univer": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-matrix:Obsidian Matrix": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "6a161d4075f64c95",
+  "lastOpenFiles": [
+    "Untitled.xlsx",
+    "Labs/PHYS 295/Lab 2/PHYS_295_Electron_Charge_to_Mass_Ratio.pdf",
+    "lab2data.csv",
+    "lab2data (2).csv",
+    "lab2data.csv.csv",
+    "Lab 2 Emergency Table.md",
+    "Aahan_EM_data.csv",
+    "Untitled.usheet",
+    "Labs/PHYS 295/Lab 1/Emergency Table.md",
+    "GithubTest.md",
+    "Github test.md",
+    "Fall 2024/HIST 115/L4- The Rate of Change.md",
+    "Fall 2023/PHYS 343/Formula Sheet.md",
+    "Fall 2023/PHYS 481/Lecture 19.md",
+    "Fall 2023/PHYS 472/Lectures 13-24.md",
+    "Fall 2023/PHYS 472/Lectures 1-12.md",
+    "Labs/PHYS 295/Lab 2",
+    "Labs/PHYS 295/Lab 1/PHYS_295_Dartboard_Statistics.pdf",
+    "Labs/PHYS 295/Lab 1/PHYS 295 L1- Dart Throws.xlsx",
+    "Fall 2024/HIST 115/L3- Are we a product of technology.md",
+    "Fall 2024/CMPUT 174/Lecture 5.md",
+    "Fall 2024/CMPUT 174/Lecture 4.md",
+    "Syncthing Testing.md",
+    "Labs/PHYS 295/Lab 1/~$PHYS 295 L1- Dart Throws.xlsx",
+    "Run Code Test.md",
+    "Fall 2024/CMPUT 174/Lecture 3.md",
+    "Fall 2024/CMPUT 174/Lecture 2.md",
+    "Fall 2024/HIST 115/L2- The ways of knowing.md",
+    "Fall 2024/HIST 115/L1 - Intro.md",
+    "Carnot Cycle.jpg.md",
+    "Fall 2024/CMPUT 174/Lecture 1.md",
+    "Winter 2024/MATH 448/Lecture 12.md",
+    "Winter 2023/PHYS 372/372 Lecture 9.md",
+    "Winter 2024/MATH 448/Lecture 1.md",
+    "Fall 2024/MATH 373/Lecture 1.md",
+    "Fall 2024/CMPUT 174/(Every R,T) CMPUT Review.md",
+    "Mathematica Pictures/MPAH 451 Limit Cycle.svg",
+    "Mathematica Pictures/PHYS 451 Limit Cycle.svg"
+  ]
+}

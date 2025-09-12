@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "a4fad77a182321e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ba96f9f17769cc1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MATH 228/Chapter 4/4.4- First Examples of Rings.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "731370f32da117bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "74acb87405f26bdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adf3a2736da8cfbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ecefa8da4aa29ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fffd8f230bad04d4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 187
+  },
+  "right": {
+    "id": "02aed5e1a84ef262",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ec529a66a36b953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e236a6dbc7e36d42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MATH 228/Chapter 4/4.4- First Examples of Rings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb3a39c8799b2abf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MATH 228/Chapter 4/4.4- First Examples of Rings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa47baa162fd7cb6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d85c53a229c0d4d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MATH 228/Chapter 4/4.4- First Examples of Rings.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0ba96f9f17769cc1",
+  "lastOpenFiles": [
+    "MATH 228/Chapter 4/4.4- First Examples of Rings.md",
+    "MATH 228/Chapter 2/2.3- The Fundamental Theorem of Arithmetic.md",
+    "MATH 228/Chapter 4/4.3- Commutative and Unital Rings.md",
+    "MATH 228/Chapter 4/4.2- First Properties of Rings.md",
+    "MATH 228/Chapter 4/4.1- Binary Operations and the Definition of a Ring.md",
+    "MATH 228/Chapter 3/3.2- Solving Single Congruences.md",
+    "PHYS 310/Chapter 2/2.2- Energy and Heat.md",
+    "PHYS 310/Chapter 2/2.1- Conservative and Non-conservative Forces.md",
+    "MATH 228/Chapter 3/3.3- Solving Simultaneous Congruences.md",
+    "MATH 228/Chapter 3/3.1- Congruences.md"
+  ]
+}
