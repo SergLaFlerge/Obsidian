@@ -163,7 +163,7 @@ The concepts of the ==time, clock, and calendar== were invented because the Sume
 <!--SR:!2024-12-14,39,232-->
 
 The Sumerians would now have people that would work exclusively on construction projects. Because of this we start seeing the first ==pyramids/ziggurats==.
-<!--SR:!2024-11-12,7,192-->
+<!--SR:!2025-09-14,4,172-->
 
 Sumerians cities got so large that people started needing specific people to communicate with their leaders, and so ==lawyers== were invented.
 <<<<<<< HEAD

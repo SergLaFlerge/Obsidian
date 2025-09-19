@@ -28,7 +28,7 @@ We can write this expectation value as follows:
 $$
 \begin{align}
 \ev{Q} & = \ev{\hat{U}^{\dagger}(t)\hat{Q}\hat{U}(t)}{\psi_{0}}, \\[1em]
-\bra{\psi_{0}}\hat{U}^{\dagger} & = \bra{\psi_{t}}\qc \hat{U}\ket{\psi_{0}} = \ket{\psi_{t}}.
+\bra{\psi_{0}}\hat{U}^{\dagger} & = \bra{\psi_{t}} \hat{U}\ket{\psi_{0}} = \ket{\psi_{t}}.
 \end{align}
 $$
 
