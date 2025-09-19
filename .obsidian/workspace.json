@@ -4,17 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "ce68a65c0aa2cdae",
+        "id": "81e19fbf8cf1d4de",
         "type": "tabs",
         "children": [
           {
-            "id": "e4e1eef280255217",
+            "id": "25acf8c48c28ff0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "Textbooks/PHYS499-Paper-1.pdf",
+                "page": 8,
+                "left": -11,
+                "top": 247,
+                "zoom": 1.3553921568627452
+              },
+              "icon": "lucide-file-text",
+              "title": "PHYS499-Paper-1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "eda289e3c8cca434",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40f29b4b79cc25a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 499/Week 3.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Week 3"
             }
           }
         ]
@@ -427,6 +453,56 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "bd0c92c73609a4e5",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "f3a8a88dfe8c96a3",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "f7b5db63912d40b6",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "7deacb656fa7ccd2",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "98ab6eccaff06ca0",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
@@ -441,6 +517,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Reload app without saving": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -448,7 +525,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "cmdr:Reload app without saving": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "homepage:Open homepage": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -460,10 +536,25 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "adf3a2736da8cfbb",
+  "active": "40f29b4b79cc25a4",
   "lastOpenFiles": [
-    "Mathematica Pictures/PHYS 451 Limit Cycle.svg",
-    "Mathematica Pictures/MPAH 451 Limit Cycle.svg",
+    "Textbooks/PHYS499-Paper-1.pdf",
+    "PHYS 499/Week 3.md",
+    "PHYS 499/ Pictures/Pasted image 20250918202028.png",
+    "PHYS 499/ Pictures/Pasted image 20250918200931.png",
+    "PHYS 499/ Pictures/Pasted image 20250918200847.png",
+    "PHYS 499/ Pictures/Pasted image 20250918200734.png",
+    "PHYS 499/ Pictures/Pasted image 20250918200816.png",
+    "PHYS 499/ Pictures/Pasted image 20250918200138.png",
+    "PHYS 499/ Pictures/Pasted image 20250918195044.png",
+    "Textbooks/John R. Taylor - Classical Mechanics-University Science Books (2005).pdf",
+    "PHYS 499/ Pictures",
+    "PHYS 499/ Pictures/Pasted image 20250918194210.png",
+    "Pasted image 20250317111057.png",
+    "L99-Paper Review.png",
+    "PHYS 499/Pictures",
+    "Winter 2025/LING 101",
+    "PHYS 499",
     "Ink/Writing/2025.4.16 - 9.52am.writing",
     "Ink/Drawing/2025.4.16 - 9.55am.drawing",
     "TikZ and Callouts.md",
@@ -477,21 +568,11 @@
     "Winter 2024/MATH 448/Lecture 8.md",
     "Z-Library Tor.md",
     "LaTeX Suite.md",
-    "Pasted image 20250414140622.png",
-    "Pasted image 20250414140904.png",
-    "Pasted image 20250415120851.png",
-    "L99-Paper Review.png",
     "Run Code Test.md",
     "ABCjs test.md",
     "Transcribing",
-    "Pasted image 20250415133936.png",
-    "Pasted image 20250415133915.png",
-    "Pasted image 20250415131939.png",
-    "Pasted image 20250415130642.png",
-    "Pasted image 20250415121810.png",
     "Textbooks/PHYS 495 QFT.pdf",
     "Winter 2025/LING 101 Final Review.md",
-    "Winter 2025/PHYS 485/L99-Paper Review.pdf",
     "Winter 2025/PHYS 485/L99- Paper Review.md",
     "Winter 2025/PHYS 495/4.6.md",
     "Winter 2025/PHYS 495/4.5.md",
@@ -501,12 +582,6 @@
     "Winter 2025/PHYS 495/4.3.md",
     "Winter 2025/PHYS 495/2.4.md",
     "Winter 2025/PHYS 495/4.1.md",
-    "Winter 2025/PHYS 495/3.2.md",
-    "Winter 2025/PHYS 495/3.1.md",
-    "Winter 2025/PHYS 485/L2-Relativity.pdf",
-    "Winter 2025/PHYS 485/L1-Review.pdf",
-    "Labs/PHYS 295/Lab 5/PHYS_295_Faraday_Effect_light_interacting_with_magnetism.pdf",
-    "Labs/PHYS 295/Lab 5/lu368161e80p3.tmp",
-    "Labs/PHYS 295/Lab 5/lu355482a7w84.tmp"
+    "Winter 2025/PHYS 495/3.2.md"
   ]
 }
