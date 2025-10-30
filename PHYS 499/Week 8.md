@@ -1,0 +1,1 @@
+From [[Week 7|last time]], we have confirmed that the terms inside the cosine are dimensionless, as $B$ and $C$ both have dimensions $[L]^{-2}$ and $K_{b,c}$ have dimensions $[L]^{2}$
