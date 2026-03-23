@@ -29,3 +29,10 @@ $$
 
 Changing $K_{c}$ does not affect the right endpoint value. Now we see how the slope changes we vary $K_{c}$. We take care of $t_{0}$ last.
 
+**Additional problem encountered:** The fit did not converge to the value of the numerical solution at the boundary. This has been fixed by modifying the scaled parameter as such:
+
+$$
+c(t)_{(0,1)} \to \frac{\tanh(\alpha(t-t_{0}))+\tanh(\alpha t_{0})}{\tanh(\alpha(R_{s}-t_{0}))+\tanh(\alpha t_{0})}.
+$$
+
+This ensures that the normalized fit will converge exactly to 1 at $t = R_{s}$ and exactly to 0 at $t = 0$, ensuring that our fit converges to the numerical solution at the boundary.
